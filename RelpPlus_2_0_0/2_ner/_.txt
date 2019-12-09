@@ -1,0 +1,1 @@
+NER. Após completar a instalação, se desejar, exclua este arquivo.

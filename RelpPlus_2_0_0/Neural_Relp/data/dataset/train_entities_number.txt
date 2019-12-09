@@ -1,0 +1,4 @@
+ORG : 119 
+PER : 31 
+PLC : 30 
+Total: 180

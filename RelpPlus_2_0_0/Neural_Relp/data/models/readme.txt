@@ -1,0 +1,2 @@
+Pasta que irá conter subpastas, onde dentro delas estarão os dados colhidos de cada modelo criado.
+Para melhorar a organização, cada pasta de modelo será criada no branch que corresponde ao branch do modelo.

@@ -1,0 +1,894 @@
+========================================
+sentence_id: 3
+sentence: marcelo_tejedor , paleontólogo de a universidade_nacional_da_patagônia , esboça um sorriso meio sem graça quando lhe perguntam se não é uma situação frustrante .
+head: marcelo_tejedor | tail: universidade_nacional_da_patagônia
+expected_relation: paleontólogo de
+predicted_relation: marcelo_tejedor , paleontólogo de a universidade_nacional_da_patagônia , esboça um sorriso meio sem graça quando lhe perguntam se não é uma situação frustrante .
+========================================
+sentence_id: 4
+sentence: esse é um alvo viável para remédios contra a obesidade , disse um de os autores , john_clapham , de a empresa farmacêutica smith_kline_beecham , que fez o estudo em colaboração com a universidade_de_cambridge , reino_unido .
+head: john_clapham | tail: smith_kline_beecham
+expected_relation: de
+predicted_relation: esse é um alvo viável para remédios contra a obesidade , disse um de os autores , john_clapham , de a empresa farmacêutica smith_kline_beecham , que fez o estudo em colaboração com a universidade_de_cambridge , reino_unido .
+========================================
+sentence_id: 9
+sentence: um grupo que reúne 13 sociedades científicas nacionais , lideradas por a academia_brasileira_de_ciências e por a associação_nacional_de_biossegurança ( anbio ) , enviou uma carta a o senado_federal para pedir mudanças em o projeto de a nova lei_de_biossegurança , recentemente aprovado por a câmara de os deputados .
+head: associação_nacional_de_biossegurança | tail: anbio
+expected_relation: (
+predicted_relation: um grupo que reúne 13 sociedades científicas nacionais , lideradas por a academia_brasileira_de_ciências e por a associação_nacional_de_biossegurança ( anbio ) , enviou uma carta a o senado_federal para pedir mudanças em o projeto de a nova lei_de_biossegurança , recentemente aprovado por a câmara de os deputados .
+========================================
+sentence_id: 10
+sentence: primeiro , pede que a ctnbio ( comissão_técnica_nacional_de_biossegurança ) seja a única instância a regulamentar tanto a pesquisa como a comercialização de transgênicos , em o âmbito de o mérito científico .
+head: ctnbio | tail: comissão_técnica_nacional_de_biossegurança
+expected_relation: (
+predicted_relation: primeiro , pede que a ctnbio ( comissão_técnica_nacional_de_biossegurança ) seja a única instância a regulamentar tanto a pesquisa como a comercialização de transgênicos , em o âmbito de o mérito científico .
+========================================
+sentence_id: 11
+sentence: a idéia foi lançada por o ministro_roberto_amaral ( ciência_e_tecnologia ) e detalhada ontem durante a abertura de o 1º congresso_internacional_de_biodiesel , realizado em ribeirão_preto e promovido por a usp ( universidade_de_são_paulo ) de a cidade .
+head: ministro_roberto_amaral | tail: ciência_e_tecnologia
+expected_relation: (
+predicted_relation: a idéia foi lançada por o ministro_roberto_amaral ( ciência_e_tecnologia ) e detalhada ontem durante a abertura de o 1º congresso_internacional_de_biodiesel , realizado em ribeirão_preto e promovido por a usp ( universidade_de_são_paulo ) de a cidade .
+========================================
+sentence_id: 11
+sentence: a idéia foi lançada por o ministro_roberto_amaral ( ciência_e_tecnologia ) e detalhada ontem durante a abertura de o 1º congresso_internacional_de_biodiesel , realizado em ribeirão_preto e promovido por a usp ( universidade_de_são_paulo ) de a cidade .
+head: usp | tail: universidade_de_são_paulo
+expected_relation: (
+predicted_relation: a idéia foi lançada por o ministro_roberto_amaral ( ciência_e_tecnologia ) e detalhada ontem durante a abertura de o 1º congresso_internacional_de_biodiesel , realizado em ribeirão_preto e promovido por a usp ( universidade_de_são_paulo ) de a cidade .
+========================================
+sentence_id: 12
+sentence: francelino_grando , secretário_de_política_tecnológica_empresarial de o mct ( ministério_da_ciência_e_tecnologia ) , disse que a proposta é uma equação lógica .
+head: francelino_grando | tail: mct
+expected_relation: de
+predicted_relation: francelino_grando , secretário_de_política_tecnológica_empresarial de o mct ( ministério_da_ciência_e_tecnologia ) , disse que a proposta é uma equação lógica .
+========================================
+sentence_id: 12
+sentence: francelino_grando , secretário_de_política_tecnológica_empresarial de o mct ( ministério_da_ciência_e_tecnologia ) , disse que a proposta é uma equação lógica .
+head: secretário_de_política_tecnológica_empresarial | tail: mct
+expected_relation: de
+predicted_relation: francelino_grando , secretário_de_política_tecnológica_empresarial de o mct ( ministério_da_ciência_e_tecnologia ) , disse que a proposta é uma equação lógica .
+========================================
+sentence_id: 12
+sentence: francelino_grando , secretário_de_política_tecnológica_empresarial de o mct ( ministério_da_ciência_e_tecnologia ) , disse que a proposta é uma equação lógica .
+head: mct | tail: ministério_da_ciência_e_tecnologia
+expected_relation: (
+predicted_relation: francelino_grando , secretário_de_política_tecnológica_empresarial de o mct ( ministério_da_ciência_e_tecnologia ) , disse que a proposta é uma equação lógica .
+========================================
+sentence_id: 14
+sentence: ainda ontem , o prefeito de ribeirão , gilberto_maggioni ( pmn ) , assinou uma carta de intenção com a usp para colocar parte de a frota de a administração municipal movida a biodiesel , já a partir de junho .
+head: gilberto_maggioni | tail: pmn
+expected_relation: (
+predicted_relation: ainda ontem , o prefeito de ribeirão , gilberto_maggioni ( pmn ) , assinou uma carta de intenção com a usp para colocar parte de a frota de a administração municipal movida a biodiesel , já a partir de junho .
+========================================
+sentence_id: 20
+sentence: o aumento de a temperatura em a antártida durante o último século foi de 1,2°c , por o menos o dobro de a média em o resto de o planeta , que ficou entre 0,2°c e 0,6°c , segundo o ipcc ( painel_intergovernamental_de_mudança_climática , órgão de a onu ) .
+head: painel_intergovernamental_de_mudança_climática | tail: onu
+expected_relation: órgão de
+predicted_relation: o aumento de a temperatura em a antártida durante o último século foi de 1,2°c , por o menos o dobro de a média em o resto de o planeta , que ficou entre 0,2°c e 0,6°c , segundo o ipcc ( painel_intergovernamental_de_mudança_climática , órgão de a onu ) .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: gilson_rambelli | tail: museu_de_arqueologia_e_etnologia
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: flávio_rizzi | tail: museu_de_arqueologia_e_etnologia
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: museu_de_arqueologia_e_etnologia | tail: mae
+expected_relation: (
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: museu_de_arqueologia_e_etnologia | tail: usp
+expected_relation: de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: mae | tail: usp
+expected_relation: de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: paulo_bava_de_camargo | tail: museu_de_arqueologia_e_etnologia
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: gilson_rambelli | tail: mae
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: paulo_bava_de_camargo | tail: mae
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: flávio_rizzi | tail: mae
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 22
+sentence: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+head: gilson_rambelli | tail: usp
+expected_relation: pesquisadores de
+predicted_relation: os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e flávio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os século 15 ou 16 , de a chamada tradição ibero-atlântica .
+========================================
+sentence_id: 26
+sentence: esse vírus é antigo e é uma zoonose , diz o virologista paolo_zanotto , de a usp , que está preparando um diagnóstico molecular de a pneumonia .
+head: paolo_zanotto | tail: usp
+expected_relation: de
+predicted_relation: esse vírus é antigo e é uma zoonose , diz o virologista paolo_zanotto , de a usp , que está preparando um diagnóstico molecular de a pneumonia .
+========================================
+sentence_id: 27
+sentence: isso é tudo o que esperam órgãos como os institutos_nacionais_de_saúde ( nih ) de os eua , que correm atrás_de uma vacina para a doença .
+head: institutos_nacionais_de_saúde | tail: nih
+expected_relation: (
+predicted_relation: isso é tudo o que esperam órgãos como os institutos_nacionais_de_saúde ( nih ) de os eua , que correm atrás_de uma vacina para a doença .
+========================================
+sentence_id: 27
+sentence: isso é tudo o que esperam órgãos como os institutos_nacionais_de_saúde ( nih ) de os eua , que correm atrás_de uma vacina para a doença .
+head: institutos_nacionais_de_saúde | tail: eua
+expected_relation: de
+predicted_relation: isso é tudo o que esperam órgãos como os institutos_nacionais_de_saúde ( nih ) de os eua , que correm atrás_de uma vacina para a doença .
+========================================
+sentence_id: 27
+sentence: isso é tudo o que esperam órgãos como os institutos_nacionais_de_saúde ( nih ) de os eua , que correm atrás de uma vacina para a doença .
+head: nih | tail: eua
+expected_relation: de
+predicted_relation: isso é tudo o que esperam órgãos como os institutos_nacionais_de_saúde ( nih ) de os eua , que correm atrás de uma vacina para a doença .
+========================================
+sentence_id: 28
+sentence: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+head: teresa_peret | tail: cdc
+expected_relation: de
+predicted_relation: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+========================================
+sentence_id: 28
+sentence: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+head: cdc | tail: centros_para_controle_e_prevenção_de_doenças
+expected_relation: (
+predicted_relation: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+========================================
+sentence_id: 28
+sentence: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+head: cdc | tail: eua
+expected_relation: de
+predicted_relation: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+========================================
+sentence_id: 28
+sentence: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+head: centros_para_controle_e_prevenção_de_doenças | tail: eua
+expected_relation: de
+predicted_relation: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+========================================
+sentence_id: 28
+sentence: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+head: teresa_peret | tail: centros_para_controle_e_prevenção_de_doenças
+expected_relation: de
+predicted_relation: as análises feitas com diferentes genes sequenciados até o momento indicam que esse não parece ser um recombinante , disse a a folha a médica teresa_peret , de os cdc ( centros_para_controle_e_prevenção_de_doenças ) de os eua , uma brasileira que integrou a equipe que identificou o vírus .
+========================================
+sentence_id: 37
+sentence: para greg_laden , de a universidade_de_minnesota , e richard_wrangham , de a universidade_harvard , raízes , tubérculos e outros usos ( sigla em inglês para órgãos subterrâneos de armazenamento de as plantas ) permitiram que os primeiros hominídeos , como são conhecidos os ancestrais de o homem , saíssem de a mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás .
+head: greg_laden | tail: universidade_de_minnesota
+expected_relation: de
+predicted_relation: para greg_laden , de a universidade_de_minnesota , e richard_wrangham , de a universidade_harvard , raízes , tubérculos e outros usos ( sigla em inglês para órgãos subterrâneos de armazenamento de as plantas ) permitiram que os primeiros hominídeos , como são conhecidos os ancestrais de o homem , saíssem de a mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás .
+========================================
+sentence_id: 37
+sentence: para greg_laden , de a universidade_de_minnesota , e richard_wrangham , de a universidade_harvard , raízes , tubérculos e outros usos ( sigla em inglês para órgãos subterrâneos de armazenamento de as plantas ) permitiram que os primeiros hominídeos , como são conhecidos os ancestrais de o homem , saíssem de a mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás .
+head: richard_wrangham | tail: universidade_harvard
+expected_relation: de
+predicted_relation: para greg_laden , de a universidade_de_minnesota , e richard_wrangham , de a universidade_harvard , raízes , tubérculos e outros usos ( sigla em inglês para órgãos subterrâneos de armazenamento de as plantas ) permitiram que os primeiros hominídeos , como são conhecidos os ancestrais de o homem , saíssem de a mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás .
+========================================
+sentence_id: 38
+sentence: a estimativa anterior , de a onu ( organização_das_nações_unidas ) , calculava em meio bilhão o número de indivíduos expostos atualmente a o problema .
+head: onu | tail: organização_das_nações_unidas
+expected_relation: (
+predicted_relation: a estimativa anterior , de a onu ( organização_das_nações_unidas ) , calculava em meio bilhão o número de indivíduos expostos atualmente a o problema .
+========================================
+sentence_id: 39
+sentence: o trabalho foi coordenado por o geocientista charles_vörösmarty , de a universidade_de_new_hampshire , em os estados_unidos .
+head: charles_vörösmarty | tail: universidade_de_new_hampshire
+expected_relation: de
+predicted_relation: o trabalho foi coordenado por o geocientista charles_vörösmarty , de a universidade_de_new_hampshire , em os estados_unidos .
+========================================
+sentence_id: 39
+sentence: o trabalho foi coordenado por o geocientista charles_vörösmarty , de a universidade_de_new_hampshire , em os estados_unidos .
+head: universidade_de_new_hampshire | tail: estados_unidos
+expected_relation: em
+predicted_relation: o trabalho foi coordenado por o geocientista charles_vörösmarty , de a universidade_de_new_hampshire , em os estados_unidos .
+========================================
+sentence_id: 40
+sentence: a demanda aumenta de forma drástica em o mundo todo , afirmou o especialista em recursos hídricos josé_galizia_tundisi , de o instituto_internacional_de_ecologia , em são_carlos ( sp ) .
+head: josé_galizia_tundisi | tail: instituto_internacional_de_ecologia
+expected_relation: de
+predicted_relation: a demanda aumenta de forma drástica em o mundo todo , afirmou o especialista em recursos hídricos josé_galizia_tundisi , de o instituto_internacional_de_ecologia , em são_carlos ( sp ) .
+========================================
+sentence_id: 40
+sentence: a demanda aumenta de forma drástica em o mundo todo , afirmou o especialista em recursos hídricos josé_galizia_tundisi , de o instituto_internacional_de_ecologia , em são_carlos ( sp ) .
+head: instituto_internacional_de_ecologia | tail: são_carlos
+expected_relation: em
+predicted_relation: a demanda aumenta de forma drástica em o mundo todo , afirmou o especialista em recursos hídricos josé_galizia_tundisi , de o instituto_internacional_de_ecologia , em são_carlos ( sp ) .
+========================================
+sentence_id: 40
+sentence: a demanda aumenta de forma drástica em o mundo todo , afirmou o especialista em recursos hídricos josé_galizia_tundisi , de o instituto_internacional_de_ecologia , em são_carlos ( sp ) .
+head: instituto_internacional_de_ecologia | tail: sp
+expected_relation: em
+predicted_relation: a demanda aumenta de forma drástica em o mundo todo , afirmou o especialista em recursos hídricos josé_galizia_tundisi , de o instituto_internacional_de_ecologia , em são_carlos ( sp ) .
+========================================
+sentence_id: 42
+sentence: pesquisadores de a universidade_de_michigan em ann_arbor , em os estados_unidos , sugerem que os olhos de asiáticos tendem a ver uma imagem em o seu conjunto , prestando tanto atenção a o que está em primeiro plano quanto em o fundo , enquanto os americanos demoram mais o olhar em o objeto central de um quadro .
+head: universidade_de_michigan | tail: ann_arbor
+expected_relation: em
+predicted_relation: pesquisadores de a universidade_de_michigan em ann_arbor , em os estados_unidos , sugerem que os olhos de asiáticos tendem a ver uma imagem em o seu conjunto , prestando tanto atenção a o que está em primeiro plano quanto em o fundo , enquanto os americanos demoram mais o olhar em o objeto central de um quadro .
+========================================
+sentence_id: 42
+sentence: pesquisadores de a universidade_de_michigan em ann_arbor , em os estados_unidos , sugerem que os olhos de asiáticos tendem a ver uma imagem em o seu conjunto , prestando tanto atenção a o que está em primeiro plano quanto em o fundo , enquanto os americanos demoram mais o olhar em o objeto central de um quadro .
+head: universidade_de_michigan | tail: estados_unidos
+expected_relation: em
+predicted_relation: pesquisadores de a universidade_de_michigan em ann_arbor , em os estados_unidos , sugerem que os olhos de asiáticos tendem a ver uma imagem em o seu conjunto , prestando tanto atenção a o que está em primeiro plano quanto em o fundo , enquanto os americanos demoram mais o olhar em o objeto central de um quadro .
+========================================
+sentence_id: 46
+sentence: depois de esse período , quem sobreviver será levado a o zôo de san_diego , onde viverá com seus colegas de espécie .
+head: zôo | tail: san_diego
+expected_relation: de
+predicted_relation: depois de esse período , quem sobreviver será levado a o zôo de san_diego , onde viverá com seus colegas de espécie .
+========================================
+sentence_id: 48
+sentence: o achado foi apresentado por mark_mattson , de o instituto_nacional_do_envelhecimentos de os eua , durante a 170ª reunião anual de a aaas ( associação_americana_para_o_avanço_da_ciência ) , em seattle , em o noroeste de os estados_unidos .
+head: mark_mattson | tail: instituto_nacional_do_envelhecimentos
+expected_relation: de
+predicted_relation: o achado foi apresentado por mark_mattson , de o instituto_nacional_do_envelhecimentos de os eua , durante a 170ª reunião anual de a aaas ( associação_americana_para_o_avanço_da_ciência ) , em seattle , em o noroeste de os estados_unidos .
+========================================
+sentence_id: 48
+sentence: o achado foi apresentado por mark_mattson , de o instituto_nacional_do_envelhecimentos de os eua , durante a 170ª reunião anual de a aaas ( associação_americana_para_o_avanço_da_ciência ) , em seattle , em o noroeste de os estados_unidos .
+head: instituto_nacional_do_envelhecimentos | tail: eua
+expected_relation: de
+predicted_relation: o achado foi apresentado por mark_mattson , de o instituto_nacional_do_envelhecimentos de os eua , durante a 170ª reunião anual de a aaas ( associação_americana_para_o_avanço_da_ciência ) , em seattle , em o noroeste de os estados_unidos .
+========================================
+sentence_id: 49
+sentence: por outro lado , diz benjamin_wolozin , de o centro_médico_da_universidade_loyola ( chicago , eua ) , o local onde as moléculas de colesterol se abrigam em a membrana é também a região em a qual estão as enzimas ( moléculas que aceleram reações químicas ) responsáveis por produzir a beta-amilóide .
+head: benjamin_wolozin | tail: centro_médico_da_universidade_loyola
+expected_relation: de
+predicted_relation: por outro lado , diz benjamin_wolozin , de o centro_médico_da_universidade_loyola ( chicago , eua ) , o local onde as moléculas de colesterol se abrigam em a membrana é também a região em a qual estão as enzimas ( moléculas que aceleram reações químicas ) responsáveis por produzir a beta-amilóide .
+========================================
+sentence_id: 49
+sentence: por outro lado , diz benjamin_wolozin , de o centro_médico_da_universidade_loyola ( chicago , eua ) , o local onde as moléculas de colesterol se abrigam em a membrana é também a região em a qual estão as enzimas ( moléculas que aceleram reações químicas ) responsáveis por produzir a beta-amilóide .
+head: centro_médico_da_universidade_loyola | tail: chicago
+expected_relation: (
+predicted_relation: por outro lado , diz benjamin_wolozin , de o centro_médico_da_universidade_loyola ( chicago , eua ) , o local onde as moléculas de colesterol se abrigam em a membrana é também a região em a qual estão as enzimas ( moléculas que aceleram reações químicas ) responsáveis por produzir a beta-amilóide .
+========================================
+sentence_id: 49
+sentence: por outro lado , diz benjamin_wolozin , de o centro_médico_da_universidade_loyola ( chicago , eua ) , o local onde as moléculas de colesterol se abrigam em a membrana é também a região em a qual estão as enzimas ( moléculas que aceleram reações químicas ) responsáveis por produzir a beta-amilóide .
+head: centro_médico_da_universidade_loyola | tail: eua
+expected_relation: (
+predicted_relation: por outro lado , diz benjamin_wolozin , de o centro_médico_da_universidade_loyola ( chicago , eua ) , o local onde as moléculas de colesterol se abrigam em a membrana é também a região em a qual estão as enzimas ( moléculas que aceleram reações químicas ) responsáveis por produzir a beta-amilóide .
+========================================
+sentence_id: 56
+sentence: é uma descoberta e tanto , disse o psicólogo césar_ades , de a usp , especialista em comportamento de aranhas .
+head: césar_ades | tail: usp
+expected_relation: de
+predicted_relation: é uma descoberta e tanto , disse o psicólogo césar_ades , de a usp , especialista em comportamento de aranhas .
+========================================
+sentence_id: 62
+sentence: o estudo , feito por pesquisadores de o imperial_college , em londres , mostra que , além disso isso , elas são capazes de originar outro tipo de célula ( células hepáticas ) dentro do o organismo humano .
+head: imperial_college | tail: londres
+expected_relation: em
+predicted_relation: o estudo , feito por pesquisadores de o imperial_college , em londres , mostra que , além disso isso , elas são capazes de originar outro tipo de célula ( células hepáticas ) dentro do o organismo humano .
+========================================
+sentence_id: 64
+sentence: o trabalho de someya e seus colegas está publicado em a última edição de a revista de a academia_de_ciências de os eua , a pnas ( www.pnas.org ) .
+head: academia_de_ciências | tail: eua
+expected_relation: de
+predicted_relation: o trabalho de someya e seus colegas está publicado em a última edição de a revista de a academia_de_ciências de os eua , a pnas ( www.pnas.org ) .
+========================================
+sentence_id: 66
+sentence: é o caso de schuyler_korban , de a universidade_de_illinois ( eua ) .
+head: schuyler_korban | tail: universidade_de_illinois
+expected_relation: de
+predicted_relation: é o caso de schuyler_korban , de a universidade_de_illinois ( eua ) .
+========================================
+sentence_id: 66
+sentence: é o caso de schuyler_korban , de a universidade_de_illinois ( eua ) .
+head: universidade_de_illinois | tail: eua
+expected_relation: (
+predicted_relation: é o caso de schuyler_korban , de a universidade_de_illinois ( eua ) .
+========================================
+sentence_id: 69
+sentence: os estudos são bancados por a fapesp ( fundação_de_amparo_à_pesquisa_do_estado_de_são_paulo ) e por o cnpq ( conselho_nacional_de_desenvolvimento_científico_e_tecnológico ) .
+head: cnpq | tail: conselho_nacional_de_desenvolvimento_científico_e_tecnológico
+expected_relation: (
+predicted_relation: os estudos são bancados por a fapesp ( fundação_de_amparo_à_pesquisa_do_estado_de_são_paulo ) e por o cnpq ( conselho_nacional_de_desenvolvimento_científico_e_tecnológico ) .
+========================================
+sentence_id: 69
+sentence: os estudos são bancados por a fapesp ( fundação_de_amparo_à_pesquisa_do_estado_de_são_paulo ) e por o cnpq ( conselho_nacional_de_desenvolvimento_científico_e_tecnológico ) .
+head: fapesp | tail: fundação_de_amparo_à_pesquisa_do_estado_de_são_paulo
+expected_relation: (
+predicted_relation: os estudos são bancados por a fapesp ( fundação_de_amparo_à_pesquisa_do_estado_de_são_paulo ) e por o cnpq ( conselho_nacional_de_desenvolvimento_científico_e_tecnológico ) .
+========================================
+sentence_id: 74
+sentence: bioantropólogo de a universidade_macmaster , em o canadá , está prestes a investigar a relação entre neandertais e humanos modernos olhando não para seus crânios , mas para o que eles defecavam , e para as moléculas que podem contar a história de eles , ocultas ali dentro .
+head: universidade_macmaster | tail: canadá
+expected_relation: em
+predicted_relation: bioantropólogo de a universidade_macmaster , em o canadá , está prestes a investigar a relação entre neandertais e humanos modernos olhando não para seus crânios , mas para o que eles defecavam , e para as moléculas que podem contar a história de eles , ocultas ali dentro .
+========================================
+sentence_id: 80
+sentence: em oito anos , detectamos mais de 300 eventos , graças ao nosso sistema de calibragem de os dados de satélite , conta douglas_revelle , de o laboratório_nacional_de_los_alamos , um de os autores de o estudo , que está publicado em a edição de hoje de a revista britânica nature classentity ( www.nature.com ) .
+head: douglas_revelle | tail: laboratório_nacional_de_los_alamos
+expected_relation: de
+predicted_relation: em oito anos , detectamos mais de 300 eventos , graças ao nosso sistema de calibragem de os dados de satélite , conta douglas_revelle , de o laboratório_nacional_de_los_alamos , um de os autores de o estudo , que está publicado em a edição de hoje de a revista britânica nature classentity ( www.nature.com ) .
+========================================
+sentence_id: 81
+sentence: esses corpos medidos em metros são interessantes cientificamente , mas não oferecem absolutamente nenhum perigo a os humanos , diz robert_jedicke , de a universidade_do_arizona , escolhido por a nature para comentar o estudo .
+head: robert_jedicke | tail: universidade_do_arizona
+expected_relation: de
+predicted_relation: esses corpos medidos em metros são interessantes cientificamente , mas não oferecem absolutamente nenhum perigo a os humanos , diz robert_jedicke , de a universidade_do_arizona , escolhido por a nature para comentar o estudo .
+========================================
+sentence_id: 93
+sentence: o navio trazia compensados de madeira exportados por a selvaplac , subsidiária brasileira de um grupo de a malásia .
+head: selvaplac | tail: malásia
+expected_relation: subsidiária brasileira de um grupo de
+predicted_relation: o navio trazia compensados de madeira exportados por a selvaplac , subsidiária brasileira de um grupo de a malásia .
+========================================
+sentence_id: 105
+sentence: é também o quénia , ao lado de a nigéria , que se incendeia , diz moncef_kaabi , de a natixis , é também a turquia , com as operações contra os separatistas curdos em o norte , justificando que mercados como o de o petróleo traduzem a inquietação e a incerteza de os investidores .
+head: moncef_kaabi | tail: natixis
+expected_relation: de
+predicted_relation: é também o quénia , ao lado de a nigéria , que se incendeia , diz moncef_kaabi , de a natixis , é também a turquia , com as operações contra os separatistas curdos em o norte , justificando que mercados como o de o petróleo traduzem a inquietação e a incerteza de os investidores .
+========================================
+sentence_id: 108
+sentence: pcp de braga promove lanche e intervenção política ; a comissão_concelhia_de_braga_do_pcp promove sábado um lanche e uma intervenção política , que vão decorrer em o centro_de_trabalho de o pcp .
+head: pcp | tail: braga
+expected_relation: de
+predicted_relation: pcp de braga promove lanche e intervenção política ; a comissão_concelhia_de_braga_do_pcp promove sábado um lanche e uma intervenção política , que vão decorrer em o centro_de_trabalho de o pcp .
+========================================
+sentence_id: 119
+sentence: situada dentro de um parqued de 6 acres e somente a alguns minutos de o aeroporto internacional e de a cidade , a estância_de_cinco_estrelas_martino é o lugar mais conveniente para se ficar em a costa_rica para umas férias agradáveis , e o lugar ideal a partir de o qual você pode viajar por todo o país .
+head: estância_de_cinco_estrelas_martino | tail: costa_rica
+expected_relation: em
+predicted_relation: situada dentro de um parqued de 6 acres e somente a alguns minutos de o aeroporto internacional e de a cidade , a estância_de_cinco_estrelas_martino é o lugar mais conveniente para se ficar em a costa_rica para umas férias agradáveis , e o lugar ideal a partir de o qual você pode viajar por todo o país .
+========================================
+sentence_id: 120
+sentence: de as agências internacionais ; o governo de a rússia vai apoiar uma ação de a otan contra as posições sérvias ao redor de sarajevo como último recurso , para defender as tropas de a onu , disse ontem o chanceler andrei_kozirev .
+head: sarajevo | tail: onu
+expected_relation: defender
+predicted_relation: de as agências internacionais ; o governo de a rússia vai apoiar uma ação de a otan contra as posições sérvias ao redor de sarajevo como último recurso , para defender as tropas de a onu , disse ontem o chanceler andrei_kozirev .
+========================================
+sentence_id: 120
+sentence: de as agências internacionais ; o governo de a rússia vai apoiar uma ação de a otan contra as posições sérvias ao redor de sarajevo como último recurso , para defender as tropas de a onu , disse ontem o chanceler andrei_kozirev .
+head: rússia | tail: otan
+expected_relation: vai apoiar uma ação de
+predicted_relation: de as agências internacionais ; o governo de a rússia vai apoiar uma ação de a otan contra as posições sérvias ao redor de sarajevo como último recurso , para defender as tropas de a onu , disse ontem o chanceler andrei_kozirev .
+========================================
+sentence_id: 126
+sentence: apesar de o veto , o guaraná_power , feito em colaboração com a cooperativa_de_agricultores de a região_de_maués , em a amazônia , chegou a ser distribuído em museus e em a própria vermelho , durante a bienal .
+head: cooperativa_de_agricultores | tail: região_de_maués
+expected_relation: de
+predicted_relation: apesar de o veto , o guaraná_power , feito em colaboração com a cooperativa_de_agricultores de a região_de_maués , em a amazônia , chegou a ser distribuído em museus e em a própria vermelho , durante a bienal .
+========================================
+sentence_id: 127
+sentence: em o próximo sábado , a as 16h , ronaldo_lemos , diretor de o creative_commons em o brasil , irá participar de um debate com os membros de o superflex , em a vermelho , e logo após será realizada uma gincana intitulada free_beer_pub_quiz , em a qual participantes receberão prêmios a o responderem questões sobre propriedade intelectual e direitos autorais .
+head: creative_commons | tail: brasil
+expected_relation: em
+predicted_relation: em o próximo sábado , a as 16h , ronaldo_lemos , diretor de o creative_commons em o brasil , irá participar de um debate com os membros de o superflex , em a vermelho , e logo após será realizada uma gincana intitulada free_beer_pub_quiz , em a qual participantes receberão prêmios a o responderem questões sobre propriedade intelectual e direitos autorais .
+========================================
+sentence_id: 127
+sentence: em o próximo sábado , a as 16h , ronaldo_lemos , diretor de o creative_commons em o brasil , irá participar de um debate com os membros de o superflex , em a vermelho , e logo após será realizada uma gincana intitulada free_beer_pub_quiz , em a qual participantes receberão prêmios a o responderem questões sobre propriedade intelectual e direitos autorais .
+head: ronaldo_lemos | tail: creative_commons
+expected_relation: diretor de
+predicted_relation: em o próximo sábado , a as 16h , ronaldo_lemos , diretor de o creative_commons em o brasil , irá participar de um debate com os membros de o superflex , em a vermelho , e logo após será realizada uma gincana intitulada free_beer_pub_quiz , em a qual participantes receberão prêmios a o responderem questões sobre propriedade intelectual e direitos autorais .
+========================================
+sentence_id: 134
+sentence: o conselho_europeu_metodista reuniu em o passado mês de setembro em stuttgart , alemanha .
+head: conselho_europeu_metodista | tail: stuttgart
+expected_relation: em
+predicted_relation: o conselho_europeu_metodista reuniu em o passado mês de setembro em stuttgart , alemanha .
+========================================
+sentence_id: 135
+sentence: ( bispo_sifredo ) - carta a o primeiro_ministro - a paz precisa de uma oportunidade - manifesto_ecuménico_jovem contra a guerra - world_council_of_churches - wars can not be won , only peace can - world_alliance_of_reformed_churches condena a guerra em o iraque departamentos_federação de mulheres_juventude_comissões_evangelização e educ . liturgia .
+head: world_alliance_of_reformed_churches | tail: iraque
+expected_relation: condena a guerra em
+predicted_relation: ( bispo_sifredo ) - carta a o primeiro_ministro - a paz precisa de uma oportunidade - manifesto_ecuménico_jovem contra a guerra - world_council_of_churches - wars can not be won , only peace can - world_alliance_of_reformed_churches condena a guerra em o iraque departamentos_federação de mulheres_juventude_comissões_evangelização e educ . liturgia .
+========================================
+sentence_id: 139
+sentence: a abertura de o evento contou com a presença de fernando_gomes , presidente de a câmara_municipal_do_porto , e de o vereador wan_chun , em representação de sales_marques , presidente de o leal_senado , a qual foi enriquecida com um pequeno concerto em que os instrumentistas wong_on_yuen e antónio_ferro , tocando ehru e viola-baixo , respectivamente , interpretaram várias peças editadas em o disco compacto sinais_de_yuanju .
+head: fernando_gomes | tail: câmara_municipal_do_porto
+expected_relation: presidente de
+predicted_relation: a abertura de o evento contou com a presença de fernando_gomes , presidente de a câmara_municipal_do_porto , e de o vereador wan_chun , em representação de sales_marques , presidente de o leal_senado , a qual foi enriquecida com um pequeno concerto em que os instrumentistas wong_on_yuen e antónio_ferro , tocando ehru e viola-baixo , respectivamente , interpretaram várias peças editadas em o disco compacto sinais_de_yuanju .
+========================================
+sentence_id: 139
+sentence: a abertura de o evento contou com a presença de fernando_gomes , presidente de a câmara_municipal_do_porto , e de o vereador wan_chun , em representação de sales_marques , presidente de o leal_senado , a qual foi enriquecida com um pequeno concerto em que os instrumentistas wong_on_yuen e antónio_ferro , tocando ehru e viola-baixo , respectivamente , interpretaram várias peças editadas em o disco compacto sinais_de_yuanju .
+head: sales_marques | tail: leal_senado
+expected_relation: presidente de
+predicted_relation: a abertura de o evento contou com a presença de fernando_gomes , presidente de a câmara_municipal_do_porto , e de o vereador wan_chun , em representação de sales_marques , presidente de o leal_senado , a qual foi enriquecida com um pequeno concerto em que os instrumentistas wong_on_yuen e antónio_ferro , tocando ehru e viola-baixo , respectivamente , interpretaram várias peças editadas em o disco compacto sinais_de_yuanju .
+========================================
+sentence_id: 142
+sentence: mas , seja como for , peço expressamente que ninguém , em o final de este período de sessões , possa afirmar que o parlamento enquanto tal , em o espírito e em o seguimento de a sua magnífica declaração , não se pronunciou a favor de o retorno de a paz em israel e em o próximo_oriente .
+head: parlamento | tail: israel
+expected_relation: não se pronunciou a favor de o retorno de a paz em
+predicted_relation: mas , seja como for , peço expressamente que ninguém , em o final de este período de sessões , possa afirmar que o parlamento enquanto tal , em o espírito e em o seguimento de a sua magnífica declaração , não se pronunciou a favor de o retorno de a paz em israel e em o próximo_oriente .
+========================================
+sentence_id: 142
+sentence: mas , seja como for , peço expressamente que ninguém , em o final de este período de sessões , possa afirmar que o parlamento enquanto tal , em o espírito e em o seguimento de a sua magnífica declaração , não se pronunciou a favor de o retorno de a paz em israel e em o próximo_oriente .
+head: parlamento | tail: próximo_oriente
+expected_relation: não se pronunciou a favor de o retorno de a paz em
+predicted_relation: mas , seja como for , peço expressamente que ninguém , em o final de este período de sessões , possa afirmar que o parlamento enquanto tal , em o espírito e em o seguimento de a sua magnífica declaração , não se pronunciou a favor de o retorno de a paz em israel e em o próximo_oriente .
+========================================
+sentence_id: 147
+sentence: fr ) senhora_presidente , gostaria de voltar por um momento a o drama recordado por o nosso colega belga , vivido por certos refugiados em este momento , em a europa , em algumas de as nossas fronteiras , para lhes comunicar que me desloquei , há uma semana , a o centro de sangatte aberto por o governo francês e gerido por a cruz_vermelha .
+head: sangatte | tail: governo
+expected_relation: aberto por
+predicted_relation: fr ) senhora_presidente , gostaria de voltar por um momento a o drama recordado por o nosso colega belga , vivido por certos refugiados em este momento , em a europa , em algumas de as nossas fronteiras , para lhes comunicar que me desloquei , há uma semana , a o centro de sangatte aberto por o governo francês e gerido por a cruz_vermelha .
+========================================
+sentence_id: 147
+sentence: fr ) senhora_presidente , gostaria de voltar por um momento a o drama recordado por o nosso colega belga , vivido por certos refugiados em este momento , em a europa , em algumas de as nossas fronteiras , para lhes comunicar que me desloquei , há uma semana , a o centro de sangatte aberto por o governo francês e gerido por a cruz_vermelha .
+head: sangatte | tail: cruz_vermelha
+expected_relation: gerido por
+predicted_relation: fr ) senhora_presidente , gostaria de voltar por um momento a o drama recordado por o nosso colega belga , vivido por certos refugiados em este momento , em a europa , em algumas de as nossas fronteiras , para lhes comunicar que me desloquei , há uma semana , a o centro de sangatte aberto por o governo francês e gerido por a cruz_vermelha .
+========================================
+sentence_id: 164
+sentence: com esta aposta em a imagem , os portos de setúbal e sesimbra preparam-se para o fim de a década , quando tiverem como grande cliente a fábrica de a ford/volkswagen .
+head: sesimbra | tail: ford/volkswagen
+expected_relation: quando tiverem
+predicted_relation: com esta aposta em a imagem , os portos de setúbal e sesimbra preparam-se para o fim de a década , quando tiverem como grande cliente a fábrica de a ford/volkswagen .
+========================================
+sentence_id: 164
+sentence: com esta aposta em a imagem , os portos de setúbal e sesimbra preparam-se para o fim de a década , quando tiverem como grande cliente a fábrica de a ford/volkswagen .
+head: setúbal | tail: ford/volkswagen
+expected_relation: quando tiverem
+predicted_relation: com esta aposta em a imagem , os portos de setúbal e sesimbra preparam-se para o fim de a década , quando tiverem como grande cliente a fábrica de a ford/volkswagen .
+========================================
+sentence_id: 165
+sentence: os documentos em causa foram colecionados em o ano passado por um painel de cientistas acadêmicos e industriais para avaliar recentes investigações de armas não letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pentágono .
+head: joint_non-lethal_weapons_program | tail: pentágono
+expected_relation: de
+predicted_relation: os documentos em causa foram colecionados em o ano passado por um painel de cientistas acadêmicos e industriais para avaliar recentes investigações de armas não letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pentágono .
+========================================
+sentence_id: 165
+sentence: os documentos em causa foram colecionados em o ano passado por um painel de cientistas acadêmicos e industriais para avaliar recentes investigações de armas não letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pentágono .
+head: jnlwp | tail: pentágono
+expected_relation: de
+predicted_relation: os documentos em causa foram colecionados em o ano passado por um painel de cientistas acadêmicos e industriais para avaliar recentes investigações de armas não letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pentágono .
+========================================
+sentence_id: 165
+sentence: os documentos em causa foram colecionados em o ano passado por um painel de cientistas acadêmicos e industriais para avaliar recentes investigações de armas não letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pentágono .
+head: joint_non-lethal_weapons_program | tail: jnlwp
+expected_relation: (
+predicted_relation: os documentos em causa foram colecionados em o ano passado por um painel de cientistas acadêmicos e industriais para avaliar recentes investigações de armas não letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pentágono .
+========================================
+sentence_id: 171
+sentence: a pergunta de o onde está é tradicional em a comunicação social e em alguns casos foi feita com estragos consideráveis , como aconteceu com vítor_constâncio a a frente de o ps .
+head: vítor_constâncio | tail: ps
+expected_relation: a a frente de
+predicted_relation: a pergunta de o onde está é tradicional em a comunicação social e em alguns casos foi feita com estragos consideráveis , como aconteceu com vítor_constâncio a a frente de o ps .
+========================================
+sentence_id: 177
+sentence: durão_barroso discursava em a sessão plenária extraordinária de o parlamento_europeu , durante a qual josé_sócrates apresentou os resultados de a presidência portuguesa de a ue .
+head: parlamento_europeu | tail: ue
+expected_relation: de
+predicted_relation: durão_barroso discursava em a sessão plenária extraordinária de o parlamento_europeu , durante a qual josé_sócrates apresentou os resultados de a presidência portuguesa de a ue .
+========================================
+sentence_id: 177
+sentence: durão_barroso discursava em a sessão plenária extraordinária de o parlamento_europeu , durante a qual josé_sócrates apresentou os resultados de a presidência portuguesa de a ue .
+head: durão_barroso | tail: parlamento_europeu
+expected_relation: discursava em
+predicted_relation: durão_barroso discursava em a sessão plenária extraordinária de o parlamento_europeu , durante a qual josé_sócrates apresentou os resultados de a presidência portuguesa de a ue .
+========================================
+sentence_id: 180
+sentence: durão_barroso acrescentou a a longa lista de sucessos enunciados por sócrates outros que considerou também importantes , como a decisão de criar o instituto_europeu_de_tecnologia e o lançamento de uma política_marítima_europeia .
+head: sócrates | tail: instituto_europeu_de_tecnologia
+expected_relation: a decisão de criar
+predicted_relation: durão_barroso acrescentou a a longa lista de sucessos enunciados por sócrates outros que considerou também importantes , como a decisão de criar o instituto_europeu_de_tecnologia e o lançamento de uma política_marítima_europeia .
+========================================
+sentence_id: 185
+sentence: hans-gert_pöttering destacou ainda a importância , para o pe , de ver reconhecido o valor juridicamente vinculativo de a carta , um passo essencial em o quadro de reforma de os tratados e essencial para a identidade europeia .
+head: hans-gert_pöttering | tail: pe
+expected_relation: destacou para
+predicted_relation: hans-gert_pöttering destacou ainda a importância , para o pe , de ver reconhecido o valor juridicamente vinculativo de a carta , um passo essencial em o quadro de reforma de os tratados e essencial para a identidade europeia .
+========================================
+sentence_id: 188
+sentence: em o mesmo registo , martin_schulz ( pse , de ) , líder de o pse , recordou que , em a república_de_weimar , se queria acabar com os inimigos em forma de coro e quem dirigia esse coro era hitler .
+head: martin_schulz | tail: pse
+expected_relation: líder de
+predicted_relation: em o mesmo registo , martin_schulz ( pse , de ) , líder de o pse , recordou que , em a república_de_weimar , se queria acabar com os inimigos em forma de coro e quem dirigia esse coro era hitler .
+========================================
+sentence_id: 190
+sentence: francis_wurtz , de a ceue/evn , condenou de maneira absoluta as declarações antieuropeias e indignas que se ouviram em o hemiciclo : o meu grupo está a favor de um referendo , mas opõe-se a acções como esta , afirmou .
+head: francis_wurtz | tail: ceue/evn
+expected_relation: de
+predicted_relation: francis_wurtz , de a ceue/evn , condenou de maneira absoluta as declarações antieuropeias e indignas que se ouviram em o hemiciclo : o meu grupo está a favor de um referendo , mas opõe-se a acções como esta , afirmou .
+========================================
+sentence_id: 198
+sentence: em declarações a a agência lusa , antónio_fontes , de a aipan , disse que o preço de o pão terá de aumentar para fazer face a a subida de 92 % registada ao longo de 2007 em o preço de a matéria-prima de base ( farinha ) .
+head: antónio_fontes | tail: aipan
+expected_relation: de
+predicted_relation: em declarações a a agência lusa , antónio_fontes , de a aipan , disse que o preço de o pão terá de aumentar para fazer face a a subida de 92 % registada ao longo de 2007 em o preço de a matéria-prima de base ( farinha ) .
+========================================
+sentence_id: 199
+sentence: através da casa_de_cinema de porto_alegre , esse grupo produziu obras-primas como o curta-metragem ilha_das_flores e apresentou para o país cineastas como jorge_furtado , considerado um de os mais interessantes realizadores de o cinema brasileiro atual .
+head: casa_de_cinema | tail: porto_alegre
+expected_relation: de
+predicted_relation: através da casa_de_cinema de porto_alegre , esse grupo produziu obras-primas como o curta-metragem ilha_das_flores e apresentou para o país cineastas como jorge_furtado , considerado um de os mais interessantes realizadores de o cinema brasileiro atual .
+========================================
+sentence_id: 210
+sentence: em a mesma linha , o vereador lembra que a ferro-têxtil foi licenciada por o ministério_da_indústria de o governo cessante , a quem deverá ser imputada a responsabilidade de eventuais problemas .
+head: ferro-têxtil | tail: ministério_da_indústria
+expected_relation: licenciada por
+predicted_relation: em a mesma linha , o vereador lembra que a ferro-têxtil foi licenciada por o ministério_da_indústria de o governo cessante , a quem deverá ser imputada a responsabilidade de eventuais problemas .
+========================================
+sentence_id: 210
+sentence: em a mesma linha , o vereador lembra que a ferro-têxtil foi licenciada por o ministério_da_indústria de o governo cessante , a quem deverá ser imputada a responsabilidade de eventuais problemas .
+head: ministério_da_indústria | tail: governo
+expected_relation: de
+predicted_relation: em a mesma linha , o vereador lembra que a ferro-têxtil foi licenciada por o ministério_da_indústria de o governo cessante , a quem deverá ser imputada a responsabilidade de eventuais problemas .
+========================================
+sentence_id: 214
+sentence: a arábia_saudita era um de os três países de o mundo que reconheciam , em o afeganistão , o governo talibã .
+head: arábia_saudita | tail: talibã
+expected_relation: reconheciam o governo
+predicted_relation: a arábia_saudita era um de os três países de o mundo que reconheciam , em o afeganistão , o governo talibã .
+========================================
+sentence_id: 214
+sentence: a arábia_saudita era um de os três países de o mundo que reconheciam , em o afeganistão , o governo talibã .
+head: arábia_saudita | tail: afeganistão
+expected_relation: em
+predicted_relation: a arábia_saudita era um de os três países de o mundo que reconheciam , em o afeganistão , o governo talibã .
+========================================
+sentence_id: 214
+sentence: a arábia_saudita era um de os três países de o mundo que reconheciam , em o afeganistão , o governo talibã .
+head: afeganistão | tail: talibã
+expected_relation: o governo
+predicted_relation: a arábia_saudita era um de os três países de o mundo que reconheciam , em o afeganistão , o governo talibã .
+========================================
+sentence_id: 216
+sentence: no entanto , christina_eisenberg , uma bióloga que estuda os lobos e trabalha para o serviço_americano_de_vida_selvagem_e_aquática conta que parou de usar o sistema porque ele travava inesperadamente .
+head: christina_eisenberg | tail: serviço_americano_de_vida_selvagem_e_aquática
+expected_relation: trabalha para
+predicted_relation: no entanto , christina_eisenberg , uma bióloga que estuda os lobos e trabalha para o serviço_americano_de_vida_selvagem_e_aquática conta que parou de usar o sistema porque ele travava inesperadamente .
+========================================
+sentence_id: 217
+sentence: almeida_henriques , presidente de a associação_industrial_da_região_de_viseu ( airv ) , é o novo rosto de o conselho_empresarial_do_centro ( cec ) .
+head: almeida_henriques | tail: associação_industrial_da_região_de_viseu
+expected_relation: presidente de
+predicted_relation: almeida_henriques , presidente de a associação_industrial_da_região_de_viseu ( airv ) , é o novo rosto de o conselho_empresarial_do_centro ( cec ) .
+========================================
+sentence_id: 217
+sentence: almeida_henriques , presidente de a associação_industrial_da_região_de_viseu ( airv ) , é o novo rosto de o conselho_empresarial_do_centro ( cec ) .
+head: almeida_henriques | tail: conselho_empresarial_do_centro
+expected_relation: rosto de
+predicted_relation: almeida_henriques , presidente de a associação_industrial_da_região_de_viseu ( airv ) , é o novo rosto de o conselho_empresarial_do_centro ( cec ) .
+========================================
+sentence_id: 225
+sentence: coma a a vontade : a equipe de o jornal_do_nikkey esteve pesquisando um lado gostoso de a liberdade em são_paulo .
+head: jornal_do_nikkey | tail: são_paulo
+expected_relation: pesquisando em
+predicted_relation: coma a a vontade : a equipe de o jornal_do_nikkey esteve pesquisando um lado gostoso de a liberdade em são_paulo .
+========================================
+sentence_id: 228
+sentence: se isto estivesse em vias de acontecer , o bibliófilo josé_mindlin , 90 anos , dono de uma de as mais importantes bibliotecas de o brasil e símbolo nacional de o culto a o livro , não teria se encontrado esta semana com seu colega americano , matthew_battles , 35 , editor de o boletim de a biblioteca_houghton , que guarda as obras raras de harvard .
+head: matthew_battles | tail: biblioteca_houghton
+expected_relation: editor de
+predicted_relation: se isto estivesse em vias de acontecer , o bibliófilo josé_mindlin , 90 anos , dono de uma de as mais importantes bibliotecas de o brasil e símbolo nacional de o culto a o livro , não teria se encontrado esta semana com seu colega americano , matthew_battles , 35 , editor de o boletim de a biblioteca_houghton , que guarda as obras raras de harvard .
+========================================
+sentence_id: 235
+sentence: em o norte , uma força de o cica_1 liderada por o tenente-coronel_carlos_azeredo toma o quartel_general de a região_militar_do_porto .
+head: cica_1 | tail: tenente-coronel_carlos_azeredo
+expected_relation: liderada por
+predicted_relation: em o norte , uma força de o cica_1 liderada por o tenente-coronel_carlos_azeredo toma o quartel_general de a região_militar_do_porto .
+========================================
+sentence_id: 244
+sentence: transferindo-se o governo português para o brasil sob a proteção inglesa e operando-se a independência sem descontinuidade em a chefia de o governo , os privilégios econômicos de que se beneficiava a inglaterra em portugal transferiram-se automaticamente para o brasil independente .
+head: inglaterra | tail: portugal
+expected_relation: em
+predicted_relation: transferindo-se o governo português para o brasil sob a proteção inglesa e operando-se a independência sem descontinuidade em a chefia de o governo , os privilégios econômicos de que se beneficiava a inglaterra em portugal transferiram-se automaticamente para o brasil independente .
+========================================
+sentence_id: 247
+sentence: e se ele avançar , as mais recentes sondagens indicam que o boletim de voto de as eleições de 2008 podem ter três rostos ligados a a big_apple : hillary_clinton , senadora por o estado de nova_iorque , rudy_giuliani , o republicano que já foi presidente de a câmara de a cidade , e michael_bloomberg , o homem que sucedeu a giuliani em o cargo .
+head: rudy_giuliani | tail: câmara
+expected_relation: presidente de
+predicted_relation: e se ele avançar , as mais recentes sondagens indicam que o boletim de voto de as eleições de 2008 podem ter três rostos ligados a a big_apple : hillary_clinton , senadora por o estado de nova_iorque , rudy_giuliani , o republicano que já foi presidente de a câmara de a cidade , e michael_bloomberg , o homem que sucedeu a giuliani em o cargo .
+========================================
+sentence_id: 249
+sentence: em o dia 30 de junho , a comissão_de_controle_e_gestão_fiscal , de o ministério_da_fazenda , publicou , em o diário_oficial , uma recomendação a o ministério_de_orçamento_e_gestão , por a autorização para a abertura de concursos .
+head: comissão_de_controle_e_gestão_fiscal | tail: ministério_da_fazenda
+expected_relation: de
+predicted_relation: em o dia 30 de junho , a comissão_de_controle_e_gestão_fiscal , de o ministério_da_fazenda , publicou , em o diário_oficial , uma recomendação a o ministério_de_orçamento_e_gestão , por a autorização para a abertura de concursos .
+========================================
+sentence_id: 249
+sentence: em o dia 30 de junho , a comissão_de_controle_e_gestão_fiscal , de o ministério_da_fazenda , publicou , em o diário_oficial , uma recomendação a o ministério_de_orçamento_e_gestão , por a autorização para a abertura de concursos .
+head: comissão_de_controle_e_gestão_fiscal | tail: ministério_de_orçamento_e_gestão
+expected_relation: recomendação a
+predicted_relation: em o dia 30 de junho , a comissão_de_controle_e_gestão_fiscal , de o ministério_da_fazenda , publicou , em o diário_oficial , uma recomendação a o ministério_de_orçamento_e_gestão , por a autorização para a abertura de concursos .
+========================================
+sentence_id: 256
+sentence: em 06/11/1982 foi oficialmente inaugurado o prédio principal , tendo como patrono o dr._josé_getúlio_lima ( advogado e professor , pai de o dr._josé_carlos_de_barros_lima ) , que atuou muito em a área educacional de a região tendo sido o fundador , entre outros , de o ginásio conselheiro_lafayette ( 1942 ) posteriormente ginásio_estadual_anhanguera e atualmente e.e.s.g . pereira_barreto .
+head: dr._josé_getúlio_lima | tail: conselheiro_lafayette
+expected_relation: o fundador
+predicted_relation: em 06/11/1982 foi oficialmente inaugurado o prédio principal , tendo como patrono o dr._josé_getúlio_lima ( advogado e professor , pai de o dr._josé_carlos_de_barros_lima ) , que atuou muito em a área educacional de a região tendo sido o fundador , entre outros , de o ginásio conselheiro_lafayette ( 1942 ) posteriormente ginásio_estadual_anhanguera e atualmente e.e.s.g . pereira_barreto .
+========================================
+sentence_id: 259
+sentence: a legião_da_boa_vontade , instituição educacional , cultural , beneficente e filantrópica , foi fundada em o brasil por o jornalista , radialista e poeta alziro_zarur em o programa de rádio hora_da_boa_vontade , em a rádio_globo de o rio_de_janeiro .
+head: legião_da_boa_vontade | tail: brasil
+expected_relation: fundada em
+predicted_relation: a legião_da_boa_vontade , instituição educacional , cultural , beneficente e filantrópica , foi fundada em o brasil por o jornalista , radialista e poeta alziro_zarur em o programa de rádio hora_da_boa_vontade , em a rádio_globo de o rio_de_janeiro .
+========================================
+sentence_id: 259
+sentence: a legião_da_boa_vontade , instituição educacional , cultural , beneficente e filantrópica , foi fundada em o brasil por o jornalista , radialista e poeta alziro_zarur em o programa de rádio hora_da_boa_vontade , em a rádio_globo de o rio_de_janeiro .
+head: legião_da_boa_vontade | tail: alziro_zarur
+expected_relation: fundada por
+predicted_relation: a legião_da_boa_vontade , instituição educacional , cultural , beneficente e filantrópica , foi fundada em o brasil por o jornalista , radialista e poeta alziro_zarur em o programa de rádio hora_da_boa_vontade , em a rádio_globo de o rio_de_janeiro .
+========================================
+sentence_id: 269
+sentence: por o mesmo diapasão alinhou o delegado em lagoa de a associação_de_agricultores_de_famalicão , antónio_ribeiro , em declarações a o público : a câmara nunca falou com nós , fizeram tudo em as costas de as pessoas .
+head: antónio_ribeiro | tail: público
+expected_relation: em declarações a
+predicted_relation: por o mesmo diapasão alinhou o delegado em lagoa de a associação_de_agricultores_de_famalicão , antónio_ribeiro , em declarações a o público : a câmara nunca falou com nós , fizeram tudo em as costas de as pessoas .
+========================================
+sentence_id: 272
+sentence: confrontado com as acusações sociais-democratas , saraiva_dias , vereador substituto de o presidente de a autarquia , referiu a o público que o comunicado de o psd contém um conjunto de atoardas , distantes de a realidade .
+head: saraiva_dias | tail: público
+expected_relation: referiu a
+predicted_relation: confrontado com as acusações sociais-democratas , saraiva_dias , vereador substituto de o presidente de a autarquia , referiu a o público que o comunicado de o psd contém um conjunto de atoardas , distantes de a realidade .
+========================================
+sentence_id: 284
+sentence: e este dado torna o estatuto de independente muito atraente - um fenómeno semelhante a o verificado com a candidatura de manuel_alegre , em as últimas presidenciais portuguesas , ou com aquilo que esperam conseguir helena_roseta e carmona_rodrigues em as próximas eleições intercalares para a câmara_de_lisboa .
+head: helena_roseta | tail: câmara_de_lisboa
+expected_relation: eleições para
+predicted_relation: e este dado torna o estatuto de independente muito atraente - um fenómeno semelhante a o verificado com a candidatura de manuel_alegre , em as últimas presidenciais portuguesas , ou com aquilo que esperam conseguir helena_roseta e carmona_rodrigues em as próximas eleições intercalares para a câmara_de_lisboa .
+========================================
+sentence_id: 284
+sentence: e este dado torna o estatuto de independente muito atraente - um fenómeno semelhante a o verificado com a candidatura de manuel_alegre , em as últimas presidenciais portuguesas , ou com aquilo que esperam conseguir helena_roseta e carmona_rodrigues em as próximas eleições intercalares para a câmara_de_lisboa .
+head: carmona_rodrigues | tail: câmara_de_lisboa
+expected_relation: eleições para
+predicted_relation: e este dado torna o estatuto de independente muito atraente - um fenómeno semelhante a o verificado com a candidatura de manuel_alegre , em as últimas presidenciais portuguesas , ou com aquilo que esperam conseguir helena_roseta e carmona_rodrigues em as próximas eleições intercalares para a câmara_de_lisboa .
+========================================
+sentence_id: 289
+sentence: em 1956 , amílcar_cabral criou o partido_africano_para_a_independência_da_guiné_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independência .
+head: amílcar_cabral | tail: partido_africano_para_a_independência_da_guiné_e_cabo_verde
+expected_relation: criou
+predicted_relation: em 1956 , amílcar_cabral criou o partido_africano_para_a_independência_da_guiné_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independência .
+========================================
+sentence_id: 289
+sentence: em 1956 , amílcar_cabral criou o partido_africano_para_a_independência_da_guiné_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independência .
+head: amílcar_cabral | tail: paigc
+expected_relation: criou
+predicted_relation: em 1956 , amílcar_cabral criou o partido_africano_para_a_independência_da_guiné_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independência .
+========================================
+sentence_id: 289
+sentence: em 1956 , amílcar_cabral criou o partido_africano_para_a_independência_da_guiné_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independência .
+head: partido_africano_para_a_independência_da_guiné_e_cabo_verde | tail: paigc
+expected_relation: (
+predicted_relation: em 1956 , amílcar_cabral criou o partido_africano_para_a_independência_da_guiné_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independência .
+========================================
+sentence_id: 294
+sentence: desta vez o museu lourinhanense está a usar tomografia_axial_computorizada ( tac ) para descobrir se existem mais ovos com embriões , os ossos de os dinossauros antes de habitualmente usado para fins médicos , o equipamento de tac foi disponibilizado por as clínicas cedima/irm e montepio de as caldas_da_rainha em colaboração com os médicos francisco_rita e josé .
+head: cedima/irm | tail: caldas_da_rainha
+expected_relation: de
+predicted_relation: desta vez o museu lourinhanense está a usar tomografia_axial_computorizada ( tac ) para descobrir se existem mais ovos com embriões , os ossos de os dinossauros antes de habitualmente usado para fins médicos , o equipamento de tac foi disponibilizado por as clínicas cedima/irm e montepio de as caldas_da_rainha em colaboração com os médicos francisco_rita e josé .
+========================================
+sentence_id: 294
+sentence: desta vez o museu lourinhanense está a usar tomografia_axial_computorizada ( tac ) para descobrir se existem mais ovos com embriões , os ossos de os dinossauros antes de habitualmente usado para fins médicos , o equipamento de tac foi disponibilizado por as clínicas cedima/irm e montepio de as caldas_da_rainha em colaboração com os médicos francisco_rita e josé .
+head: montepio | tail: caldas_da_rainha
+expected_relation: de
+predicted_relation: desta vez o museu lourinhanense está a usar tomografia_axial_computorizada ( tac ) para descobrir se existem mais ovos com embriões , os ossos de os dinossauros antes de habitualmente usado para fins médicos , o equipamento de tac foi disponibilizado por as clínicas cedima/irm e montepio de as caldas_da_rainha em colaboração com os médicos francisco_rita e josé .
+========================================
+sentence_id: 295
+sentence: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+head: pp | tail: governo
+expected_relation: criticado
+predicted_relation: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+========================================
+sentence_id: 295
+sentence: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+head: pcp | tail: governo
+expected_relation: criticado
+predicted_relation: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+========================================
+sentence_id: 295
+sentence: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+head: be | tail: governo
+expected_relation: criticado
+predicted_relation: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+========================================
+sentence_id: 295
+sentence: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+head: psd | tail: governo
+expected_relation: concordando com
+predicted_relation: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+========================================
+sentence_id: 295
+sentence: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+head: psd | tail: ps
+expected_relation: concordando com
+predicted_relation: o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socrático , têm criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas críticas de circunstância que ninguém ouve , ou , em muitos casos , concordando com o governo e o ps .
+========================================
+sentence_id: 296
+sentence: mas , quando vier a pergunta , será mais para a coreografia do que para a substância , porque esta está há muito respondida : de há uns tempos a esta parte , o psd está onde está o ps .
+head: psd | tail: ps
+expected_relation: está onde está
+predicted_relation: mas , quando vier a pergunta , será mais para a coreografia do que para a substância , porque esta está há muito respondida : de há uns tempos a esta parte , o psd está onde está o ps .
+========================================
+sentence_id: 304
+sentence: situada , desde 1891 , em a praça_do_império , em a imediata proximidade de o mosteiro_dos_jerónimos , a biblioteca_central_da_marinha ( bcm ) é sucessora de a antiga biblioteca_da_real_academia_dos_guardas-marinhas , que seguiu com a côrte para o brasil e foi transferida para o rio_de_janeiro aquando_de a 1ª invasão francesa , tendo ficado em grande parte em aquele país .
+head: biblioteca_central_da_marinha | tail: biblioteca_da_real_academia_dos_guardas-marinhas
+expected_relation: sucessora de
+predicted_relation: situada , desde 1891 , em a praça_do_império , em a imediata proximidade de o mosteiro_dos_jerónimos , a biblioteca_central_da_marinha ( bcm ) é sucessora de a antiga biblioteca_da_real_academia_dos_guardas-marinhas , que seguiu com a côrte para o brasil e foi transferida para o rio_de_janeiro aquando_de a 1ª invasão francesa , tendo ficado em grande parte em aquele .
+========================================
+sentence_id: 304
+sentence: situada , desde 1891 , em a praça_do_império , em a imediata proximidade de o mosteiro_dos_jerónimos , a biblioteca_central_da_marinha ( bcm ) é sucessora de a antiga biblioteca_da_real_academia_dos_guardas-marinhas , que seguiu com a côrte para o brasil e foi transferida para o rio_de_janeiro aquando de a 1ª invasão francesa , tendo ficado em grande parte em aquele país .
+head: biblioteca_central_da_marinha | tail: bcm
+expected_relation: (
+predicted_relation: situada , desde 1891 , em a praça_do_império , em a imediata proximidade de o mosteiro_dos_jerónimos , a biblioteca_central_da_marinha ( bcm ) é sucessora de a antiga biblioteca_da_real_academia_dos_guardas-marinhas , que seguiu com a côrte para o brasil e foi transferida para o rio_de_janeiro aquando de a 1ª invasão francesa , tendo ficado em grande parte em aquele .
+========================================
+sentence_id: 306
+sentence: méxico prende assessor de deputado de o pri ; de as agências_internacionais ; a polícia mexicana prendeu ontem um funcionário de a câmara por suspeita de envolvimento em o assassinato de o secretário-geral de o partido_revolucionário_institucional ( pri , governista ) , josé_francisco_ruiz_massieu , 48 , ocorrido quarta-feira em a cidade_do_méxico .
+head: méxico | tail: pri
+expected_relation: prende assessor de deputado de
+predicted_relation: méxico prende assessor de deputado de o pri ; de as agências_internacionais ; a polícia mexicana prendeu ontem um funcionário de a câmara por suspeita de envolvimento em o assassinato de o secretário-geral de o partido_revolucionário_institucional ( pri , governista ) , josé_francisco_ruiz_massieu , 48 , ocorrido quarta-feira em a cidade_do_méxico .
+========================================
+sentence_id: 308
+sentence: a cimeira união_europeia_áfrica , prevista para 8 e 9 de dezembro em lisboa , não deve ser uma cimeira sobre o presidente_do_zimbabwe , robert_mugabe , defendeu hoje josé_sócrates , primeiro-ministro português e presidente em exercício de a união_europeia ( ue ) .
+head: josé_sócrates | tail: união_europeia
+expected_relation: primeiro-ministro e presidente de
+predicted_relation: a cimeira união_europeia_áfrica , prevista para 8 e 9 de dezembro em lisboa , não deve ser uma cimeira sobre o presidente_do_zimbabwe , robert_mugabe , defendeu hoje josé_sócrates , primeiro-ministro português e presidente em exercício de a união_europeia ( ue ) .
+========================================
+sentence_id: 314
+sentence: a lusa tentou contactar o porta-voz de a asae para obter esclarecimentos adicionais mas tal foi impossível até a o momento .
+head: lusa | tail: asae
+expected_relation: contactar o porta-voz de
+predicted_relation: a lusa tentou contactar o porta-voz de a asae para obter esclarecimentos adicionais mas tal foi impossível até a o momento .
+========================================
+sentence_id: 329
+sentence: organizada por o núcleo_interactivo_de_astronomia ( nuclio ) em o centro_de_interpretação_ambiental_da_ponta_do_sal , em são_pedro de o estoril , a quarta edição de a iniciativa inclui sessões de observação de o sol e de o céu nocturno , oficinas de astronomia , lançamentos de foguetões de água , palestras e uma procura de asteróides , actividade que a instituição promove regularmente em as escolas de o concelho .
+head: núcleo_interactivo_de_astronomia | tail: centro_de_interpretação_ambiental_da_ponta_do_sal
+expected_relation: em
+predicted_relation: organizada por o núcleo_interactivo_de_astronomia ( nuclio ) em o centro_de_interpretação_ambiental_da_ponta_do_sal , em são_pedro de o estoril , a quarta edição de a iniciativa inclui sessões de observação de o sol e de o céu nocturno , oficinas de astronomia , lançamentos de foguetões de água , palestras e uma procura de asteróides , actividade que a instituição promove regularmente em as escolas de o concelho .
+========================================
+sentence_id: 332
+sentence: realizada em o teatro_do_sesi , local ao lado de o espaço de o fisl , a noite começou com os gaúchos de a bataclã fc , que entraram em o palco com uniformes de o dmlu , o departamento_municipal_de_limpeza_urbana de porto_alegre e abriram o show com o clássico amigo_punk .
+head: departamento_municipal_de_limpeza_urbana | tail: porto_alegre
+expected_relation: de
+predicted_relation: realizada em o teatro_do_sesi , local ao lado de o espaço de o fisl , a noite começou com os gaúchos de a bataclã fc , que entraram em o palco com uniformes de o dmlu , o departamento_municipal_de_limpeza_urbana de porto_alegre e abriram o show com o clássico amigo_punk .
+========================================
+sentence_id: 332
+sentence: realizada em o teatro_do_sesi , local ao_lado de o espaço de o fisl , a noite começou com os gaúchos de a bataclã fc , que entraram em o palco com uniformes de o dmlu , o departamento_municipal_de_limpeza_urbana de porto_alegre e abriram o show com o clássico amigo_punk .
+head: dmlu | tail: departamento_municipal_de_limpeza_urbana
+expected_relation: o
+predicted_relation: realizada em o teatro_do_sesi , local ao_lado de o espaço de o fisl , a noite começou com os gaúchos de a bataclã fc , que entraram em o palco com uniformes de o dmlu , o departamento_municipal_de_limpeza_urbana de porto_alegre e abriram o show com o clássico amigo_punk .
+========================================
+sentence_id: 342
+sentence: fernando_rodríguez_gonzález , assessor de o deputado manuel_muoz_rocha , de o pri , teria hospedado o assassino em a capital enquanto o crime era preparado .
+head: fernando_rodríguez_gonzález | tail: pri
+expected_relation: de
+predicted_relation: fernando_rodríguez_gonzález , assessor de o deputado manuel_muoz_rocha , de o pri , teria hospedado o assassino em a capital enquanto o crime era preparado .
+========================================
+sentence_id: 342
+sentence: fernando_rodríguez_gonzález , assessor de o deputado manuel_muoz_rocha , de o pri , teria hospedado o assassino em a capital enquanto o crime era preparado .
+head: manuel_muoz_rocha | tail: pri
+expected_relation: de
+predicted_relation: fernando_rodríguez_gonzález , assessor de o deputado manuel_muoz_rocha , de o pri , teria hospedado o assassino em a capital enquanto o crime era preparado .
+========================================
+sentence_id: 347
+sentence: a desforra de granada ; granada não enfrentou os reis_católicos por razões de fé ou de religião .
+head: granada | tail: reis_católicos
+expected_relation: não enfrentou
+predicted_relation: a desforra de granada ; granada não enfrentou os reis_católicos por razões de fé ou de religião .
+========================================
+sentence_id: 359
+sentence: em este arco temporal de 15 anos , o ccb apresentou a o público de lisboa artistas tão diversos como sviatoslav_richter e cecilia_bartoli , pina_bausch_et_pippo_delbono , peter_brook e jordi_savall , philip_glass_et_keith_jarrett , a royal_shakespeare_company e o piccolo_teatro_di_milano , robert_lepage e a companhia cheek by jowl , a companhia de ópera de o teatro_mariinski_de_s._petersburgo e the_wooster_group .
+head: ccb | tail: lisboa
+expected_relation: apresentou a o público de
+predicted_relation: em este arco temporal de 15 anos , o ccb apresentou a o público de lisboa artistas tão diversos como sviatoslav_richter e cecilia_bartoli , pina_bausch_et_pippo_delbono , peter_brook e jordi_savall , philip_glass_et_keith_jarrett , a royal_shakespeare_company e o piccolo_teatro_di_milano , robert_lepage e a companhia cheek by jowl , a companhia de ópera de o teatro_mariinski_de_s._petersburgo e the_wooster_group .
+========================================
+sentence_id: 363
+sentence: israel , sabendo que não pode devolver a cisjordânia , desmantelar os colonatos , prescindir de a ocupação sem comprometer a sua segurança , dividir jerusalém ou ceder a pretensões sobre o regresso des de refugiados ( que nunca poderão regressar ) , está interessado em manter as ficções americanas e europeias e administrar a ocupação e a relação de forças , como a sua supremacia militar assegura .
+head: israel | tail: cisjordânia
+expected_relation: não pode devolver
+predicted_relation: israel , sabendo que não pode devolver a cisjordânia , desmantelar os colonatos , prescindir de a ocupação sem comprometer a sua segurança , dividir jerusalém ou ceder a pretensões sobre o regresso des de refugiados ( que nunca poderão regressar ) , está interessado em manter as ficções americanas e europeias e administrar a ocupação e a relação de forças , como a sua supremacia militar assegura .
+========================================
+sentence_id: 364
+sentence: em dublin , a maior é a eason_and_son , que tem uma variedade enorme de a literatura irlandesa .
+head: dublin | tail: eason_and_son
+expected_relation: a maior é
+predicted_relation: em dublin , a maior é a eason_and_son , que tem uma variedade enorme de a literatura irlandesa .
+========================================
+sentence_id: 365
+sentence: em waterford , visite a fábrica de cristais waterford ( waterford_crystal_factory ) , que foi fundada em 1783 e fica a 2,5 km a o sul de o centro de a cidade .
+head: waterford | tail: waterford
+expected_relation: visite
+predicted_relation: em waterford , visite a fábrica de cristais waterford ( waterford_crystal_factory ) , que foi fundada em 1783 e fica a 2,5 km a o sul de o centro de a cidade .
+========================================
+sentence_id: 375
+sentence: antónio_nunes , presidente de a autoridade_de_segurança_alimentar_e_económica ( asae ) , uma de as entidades que irá fiscalizar a aplicação de a lei que proibe o fumo em espaços fechados de utilização pública , foi fotografado por o diário_de_notícias ( dn ) a fumar uma cigarrilha em o casino de o estoril a as 02.30 de a manhã de o dia 01 de janeiro .
+head: antónio_nunes | tail: autoridade_de_segurança_alimentar_e_económica
+expected_relation: presidente de
+predicted_relation: antónio_nunes , presidente de a autoridade_de_segurança_alimentar_e_económica ( asae ) , uma de as entidades que irá fiscalizar a aplicação de a lei que proibe o fumo em espaços fechados de utilização pública , foi fotografado por o diário_de_notícias ( dn ) a fumar uma cigarrilha em o casino de o estoril a as 02.30 de a manhã de o dia 01 de janeiro .
+========================================
+sentence_id: 390
+sentence: de acordo com a cbkc ( confederação_brasileira_de_cinofilia ) , órgão filiado a o fci ( fédération_cynologique_internationale ) , existem onze grupos de raças em o brasil .
+head: cbkc | tail: fci
+expected_relation: órgão filiado a
+predicted_relation: de acordo com a cbkc ( confederação_brasileira_de_cinofilia ) , órgão filiado a o fci ( fédération_cynologique_internationale ) , existem onze grupos de raças em o brasil .
+========================================
+sentence_id: 401
+sentence: em o norte , uma força de o cica_1 liderada por o tenente-coronel carlos_azeredo toma o quartel_general_da_região_militar_do_porto .
+head: cica_1 | tail: quartel_general_da_região_militar_do_porto
+expected_relation: toma
+predicted_relation: em o norte , uma força de o cica_1 liderada por o tenente-coronel carlos_azeredo toma o quartel_general_da_região_militar_do_porto .
+========================================
+sentence_id: 401
+sentence: em o norte , uma força de o cica_1 liderada por o tenente-coronel carlos_azeredo toma o quartel_general_da_região_militar_do_porto .
+head: norte | tail: cica_1
+expected_relation: uma força de
+predicted_relation: em o norte , uma força de o cica_1 liderada por o tenente-coronel carlos_azeredo toma o quartel_general_da_região_militar_do_porto .
+========================================
+sentence_id: 408
+sentence: a abraço é uma instituição_particular_de_solidariedade_social .
+head: abraço | tail: instituição_particular_de_solidariedade_social
+expected_relation: é
+predicted_relation: a abraço é uma instituição_particular_de_solidariedade_social .
+========================================
+sentence_id: 411
+sentence: de o grupo alde , graham watson lançou uma petição para que a presidência de o pe use os poderes que lhe confere o regimento para mandar embora um deputado que se comporte de maneira indigna : uma atitude como esta não se pode tolerar e traz-nos o pior de um estádio de futebol , afirmou .
+head: presidência | tail: pe
+expected_relation: de
+predicted_relation: de o grupo alde , graham watson lançou uma petição para que a presidência de o pe use os poderes que lhe confere o regimento para mandar embora um deputado que se comporte de maneira indigna : uma atitude como esta não se pode tolerar e traz-nos o pior de um estádio de futebol , afirmou .
+========================================
+sentence_id: 413
+sentence: a o recuperar a independência , portugal encontrou-se em posição extremamente débil , pois a ameaça de a espanha - que por mais de um quarto de século não reconheceu essa independência - pesava permanentemente sobre o território metropolitano .
+head: portugal | tail: espanha
+expected_relation: ameaça de
+predicted_relation: a o recuperar a independência , portugal encontrou-se em posição extremamente débil , pois a ameaça de a espanha - que por mais de um quarto de século não reconheceu essa independência - pesava permanentemente sobre o território metropolitano .
+========================================
+sentence_id: 419
+sentence: o departamento_de_cultura_científica_do_centro_acadêmico_pereira_barretto ( dcc/capb ) , órgão responsável por a representação e encaminhamento científico de os alunos de a unifesp/epm , fundado em 1937 , atua junto a os alunos promovendo vários cursos extracurriculares , palestras , conferências e discussões de interesse a a área médica .
+head: departamento_de_cultura_científica_do_centro_acadêmico_pereira_barretto | tail: unifesp/epm
+expected_relation: órgão responsável por a representação e encaminhamento científico de os alunos de
+predicted_relation: o departamento_de_cultura_científica_do_centro_acadêmico_pereira_barretto ( dcc/capb ) , órgão responsável por a representação e encaminhamento científico de os alunos de a unifesp/epm , fundado em 1937 , atua junto a os alunos promovendo vários cursos extracurriculares , palestras , conferências e discussões de interesse a a área médica .
+========================================
+sentence_id: 422
+sentence: a formação e o treino de as falintil - forcas_de_defesa_de_timor-leste , de a polícia_nacional_de_timor-leste e de os guardas prisionais são orientados por os princípios de os direitos humanos .
+head: falintil | tail: polícia_nacional_de_timor-leste
+expected_relation: de
+predicted_relation: a formação e o treino de as falintil - forcas_de_defesa_de_timor-leste , de a polícia_nacional_de_timor-leste e de os guardas prisionais são orientados por os princípios de os direitos humanos .
+========================================
+sentence_id: 425
+sentence: escutismo distingue câmara_de_santo_tirso ; o corpo_nacional_de_escutas ( cne ) atribuiu ontem a a câmara_de_santo_tirso o diploma de mérito_nacional , a sua mais alta distinção , por o apoio incondicional de a autarquia a o escutismo em o concelho .
+head: corpo_nacional_de_escutas | tail: câmara_de_santo_tirso
+expected_relation: atribuiu
+predicted_relation: escutismo distingue câmara_de_santo_tirso ; o corpo_nacional_de_escutas ( cne ) atribuiu ontem a a câmara_de_santo_tirso o diploma de mérito_nacional , a sua mais alta distinção , por o apoio incondicional de a autarquia a o escutismo em o concelho .
+========================================
+sentence_id: 441
+sentence: com um total de 161 militares , o contingente português integrado em a força_internacional_de_assistência_e_segurança ( isaf ) constitui a força_de_reacção_rápida_do_comandante de a força de a nato em o afeganistão .
+head: força_internacional_de_assistência_e_segurança | tail: força_de_reacção_rápida_do_comandante
+expected_relation: constitui
+predicted_relation: com um total de 161 militares , o contingente português integrado em a força_internacional_de_assistência_e_segurança ( isaf ) constitui a força_de_reacção_rápida_do_comandante de a força de a nato em o afeganistão .
+========================================
+sentence_id: 441
+sentence: com um total de 161 militares , o contingente português integrado em a força_internacional_de_assistência_e_segurança ( isaf ) constitui a força_de_reacção_rápida_do_comandante de a força de a nato em o afeganistão .
+head: isaf | tail: força_de_reacção_rápida_do_comandante
+expected_relation: constitui
+predicted_relation: com um total de 161 militares , o contingente português integrado em a força_internacional_de_assistência_e_segurança ( isaf ) constitui a força_de_reacção_rápida_do_comandante de a força de a nato em o afeganistão .
+========================================
+sentence_id: 457
+sentence: é urgente que aquela comissão averigúe por que razão os estados_membros estão a ignorar as leis de a ue em matéria de segurança marítima e não se trata apenas de a grécia .
+head: estados_membros | tail: ue
+expected_relation: ignorar as leis de
+predicted_relation: é urgente que aquela comissão averigúe por que razão os estados_membros estão a ignorar as leis de a ue em matéria de segurança marítima e não se trata apenas de a grécia .
+========================================
+sentence_id: 457
+sentence: é urgente que aquela comissão averigúe por que razão os estados_membros estão a ignorar as leis de a ue em matéria de segurança marítima e não se trata apenas de a grécia .
+head: estados_membros | tail: grécia
+expected_relation: ignorar as leis de
+predicted_relation: é urgente que aquela comissão averigúe por que razão os estados_membros estão a ignorar as leis de a ue em matéria de segurança marítima e não se trata apenas de a grécia .

@@ -1,0 +1,43 @@
+IberLEF Task 2/Test 1 Evaluation Metrics
+
+We will consider two scores for Test 1's evaluataion metrics: a completely correct relations score and a partially correct relations score. These were adapted from First HAREM's evaluation metrics for named entities (Santos et al., 2007).
+
+Completely Correct Relations (CCR): when all terms that make up the relation descriptors in the key are equal to the relations descriptors of the system's output. The score for each completely correct relation is 1, which represents full hit.
+
+Partially Correct Relations (PCR): when at least one of the terms in the relation descriptors of the systems output corresponds to a term in the relarion descriptors of the key.
+
+The score for a partially correct relation is calculated as per the following equation:
+
+		PCR = 0.5  * (number of correct terms in the annotation/ greatest value between the number of terms in the key and the number of terms in the system's output)
+
+The evaluation metrics are: Precision (P), Recall (R), and F-measure (F), as per the following:
+
+CR = correct relations
+IR = identified relations
+TR = total relations
+
+P: measures the proportion of correct responses when compared to the sum of all responses given by the system.
+
+R: measures the percentage of answers the systems can give when compared to all answers available in the key.
+
+F: combines the metrics of precision and recall
+
+- Considering only the CCR:
+
+	Functions:
+
+		P = RC/RI
+		R = RC/RT
+		F = (2*P*R)/(P+R)
+
+- Considering both CCR and PCR:
+
+	Functions:
+
+		P=(RC+RPC)/RI
+		R=(RC+RPC)/RT
+		F=(2*P*R)/(P+R)
+
+Reference
+
+Diana Santos and Nuno Cardoso, editors, Reconhecimento de entidades mencionadas em português: Documentação e actas do HAREM, a primeira avaliação conjunta na área, chapter 18, pp. 245–282, 2007. 

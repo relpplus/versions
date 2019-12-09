@@ -1,0 +1,6 @@
+ORG-ORG : 29 
+ORG-PLC : 25 
+PER-ORG : 24 
+ORG-PER : 7 
+PLC-ORG : 5 
+Total: 90

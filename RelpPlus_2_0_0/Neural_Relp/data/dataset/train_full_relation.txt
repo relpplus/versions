@@ -1,0 +1,54 @@
+de : 14 
+em : 13 
+subvive de : 5 
+( : 3 
+mandar em : 2 
+juntou as lideranças de : 2 
+quando tiverem : 2 
+ficará tão próximo de : 2 
+tomam : 2 
+ignorar as leis de : 2 
+paleontólogo de : 1 
+, : 1 
+químico de : 1 
+diretor-presidente de : 1 
+subsidiária brasileira de um grupo de : 1 
+exigir uma explicação de : 1 
+dirigida por : 1 
+trabalha em : 1 
+vice-presidente de : 1 
+manda em : 1 
+dominada por : 1 
+tem apoio em : 1 
+diretor de : 1 
+presidente de : 1 
+vereador : 1 
+acredita em : 1 
+líder de : 1 
+apresentou cineastas como : 1 
+contava com a simpatia de : 1 
+licenciada por : 1 
+instrutor de : 1 
+interlocutor : 1 
+solicitar a : 1 
+comandadas por : 1 
+conseguiu de : 1 
+implantação em : 1 
+organiza excursões a : 1 
+criou : 1 
+aproximou politicamente de : 1 
+contactar o porta-voz de : 1 
+gostaria de ouvir : 1 
+ficam em : 1 
+a maior é : 1 
+visite : 1 
+com : 1 
+em a rua : 1 
+director-geral de : 1 
+toma : 1 
+uma força de : 1 
+a ocupação de : 1 
+é : 1 
+o responsável de : 1 
+não contatar : 1 
+Total: 90

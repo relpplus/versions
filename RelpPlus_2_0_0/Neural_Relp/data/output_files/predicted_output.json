@@ -1,0 +1,2535 @@
+[
+    {
+        "sentence_id": 3,
+        "sentence": "marcelo_tejedor , paleont\u00f3logo de a universidade_nacional_da_patag\u00f4nia , esbo\u00e7a um sorriso meio sem gra\u00e7a quando lhe perguntam se n\u00e3o \u00e9 uma situa\u00e7\u00e3o frustrante .",
+        "head": {
+            "word": "marcelo_tejedor",
+            "id": 1,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "universidade_nacional_da_patag\u00f4nia",
+            "id": 6,
+            "category": "ORG"
+        },
+        "relation": "paleont\u00f3logo de",
+        "relation_id": 1,
+        "predicted_relation": "paleont\u00f3logo de"
+    },
+    {
+        "sentence_id": 4,
+        "sentence": "esse \u00e9 um alvo vi\u00e1vel para rem\u00e9dios contra a obesidade , disse um de os autores , john_clapham , de a empresa farmac\u00eautica smith_kline_beecham , que fez o estudo em colabora\u00e7\u00e3o com a universidade_de_cambridge , reino_unido .",
+        "head": {
+            "word": "john_clapham",
+            "id": 816,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "smith_kline_beecham",
+            "id": 818,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 3,
+        "predicted_relation": "de estudo em"
+    },
+    {
+        "sentence_id": 9,
+        "sentence": "um grupo que re\u00fane 13 sociedades cient\u00edficas nacionais , lideradas por a academia_brasileira_de_ci\u00eancias e por a associa\u00e7\u00e3o_nacional_de_biosseguran\u00e7a ( anbio ) , enviou uma carta a o senado_federal para pedir mudan\u00e7as em o projeto de a nova lei_de_biosseguran\u00e7a , recentemente aprovado por a c\u00e2mara de os deputados .",
+        "head": {
+            "word": "associa\u00e7\u00e3o_nacional_de_biosseguran\u00e7a",
+            "id": 831,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "anbio",
+            "id": 832,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 2,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 10,
+        "sentence": "primeiro , pede que a ctnbio ( comiss\u00e3o_t\u00e9cnica_nacional_de_biosseguran\u00e7a ) seja a \u00fanica inst\u00e2ncia a regulamentar tanto a pesquisa como a comercializa\u00e7\u00e3o de transg\u00eanicos , em o \u00e2mbito de o m\u00e9rito cient\u00edfico .",
+        "head": {
+            "word": "ctnbio",
+            "id": 26,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "comiss\u00e3o_t\u00e9cnica_nacional_de_biosseguran\u00e7a",
+            "id": 28,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 1,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 11,
+        "sentence": "a id\u00e9ia foi lan\u00e7ada por o ministro_roberto_amaral ( ci\u00eancia_e_tecnologia ) e detalhada ontem durante a abertura de o 1\u00ba congresso_internacional_de_biodiesel , realizado em ribeir\u00e3o_preto e promovido por a usp ( universidade_de_s\u00e3o_paulo ) de a cidade .",
+        "head": {
+            "word": "ministro_roberto_amaral",
+            "id": 844,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "ci\u00eancia_e_tecnologia",
+            "id": 845,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 1,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 11,
+        "sentence": "a id\u00e9ia foi lan\u00e7ada por o ministro_roberto_amaral ( ci\u00eancia_e_tecnologia ) e detalhada ontem durante a abertura de o 1\u00ba congresso_internacional_de_biodiesel , realizado em ribeir\u00e3o_preto e promovido por a usp ( universidade_de_s\u00e3o_paulo ) de a cidade .",
+        "head": {
+            "word": "usp",
+            "id": 47,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "universidade_de_s\u00e3o_paulo",
+            "id": 853,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 5,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 12,
+        "sentence": "francelino_grando , secret\u00e1rio_de_pol\u00edtica_tecnol\u00f3gica_empresarial de o mct ( minist\u00e9rio_da_ci\u00eancia_e_tecnologia ) , disse que a proposta \u00e9 uma equa\u00e7\u00e3o l\u00f3gica .",
+        "head": {
+            "word": "francelino_grando",
+            "id": 854,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "mct",
+            "id": 856,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "secret\u00e1rio_de_pol\u00edtica_tecnol\u00f3gica_empresarial de"
+    },
+    {
+        "sentence_id": 12,
+        "sentence": "francelino_grando , secret\u00e1rio_de_pol\u00edtica_tecnol\u00f3gica_empresarial de o mct ( minist\u00e9rio_da_ci\u00eancia_e_tecnologia ) , disse que a proposta \u00e9 uma equa\u00e7\u00e3o l\u00f3gica .",
+        "head": {
+            "word": "secret\u00e1rio_de_pol\u00edtica_tecnol\u00f3gica_empresarial",
+            "id": 855,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "mct",
+            "id": 856,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 12,
+        "sentence": "francelino_grando , secret\u00e1rio_de_pol\u00edtica_tecnol\u00f3gica_empresarial de o mct ( minist\u00e9rio_da_ci\u00eancia_e_tecnologia ) , disse que a proposta \u00e9 uma equa\u00e7\u00e3o l\u00f3gica .",
+        "head": {
+            "word": "mct",
+            "id": 856,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "minist\u00e9rio_da_ci\u00eancia_e_tecnologia",
+            "id": 857,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 3,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 14,
+        "sentence": "ainda ontem , o prefeito de ribeir\u00e3o , gilberto_maggioni ( pmn ) , assinou uma carta de inten\u00e7\u00e3o com a usp para colocar parte de a frota de a administra\u00e7\u00e3o municipal movida a biodiesel , j\u00e1 a partir de junho .",
+        "head": {
+            "word": "gilberto_maggioni",
+            "id": 862,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "pmn",
+            "id": 863,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 4,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 20,
+        "sentence": "o aumento de a temperatura em a ant\u00e1rtida durante o \u00faltimo s\u00e9culo foi de 1,2\u00b0c , por o menos o dobro de a m\u00e9dia em o resto de o planeta , que ficou entre 0,2\u00b0c e 0,6\u00b0c , segundo o ipcc ( painel_intergovernamental_de_mudan\u00e7a_clim\u00e1tica , \u00f3rg\u00e3o de a onu ) .",
+        "head": {
+            "word": "painel_intergovernamental_de_mudan\u00e7a_clim\u00e1tica",
+            "id": 888,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "onu",
+            "id": 890,
+            "category": "ORG"
+        },
+        "relation": "\u00f3rg\u00e3o de",
+        "relation_id": 5,
+        "predicted_relation": "\u00f3rg\u00e3o de"
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "gilson_rambelli",
+            "id": 892,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "museu_de_arqueologia_e_etnologia",
+            "id": 895,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 1,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "fl\u00e1vio_rizzi",
+            "id": 894,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "museu_de_arqueologia_e_etnologia",
+            "id": 895,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "museu_de_arqueologia_e_etnologia",
+            "id": 895,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "mae",
+            "id": 896,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 3,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "museu_de_arqueologia_e_etnologia",
+            "id": 895,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "usp",
+            "id": 47,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 4,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "mae",
+            "id": 896,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "usp",
+            "id": 47,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 5,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "paulo_bava_de_camargo",
+            "id": 893,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "museu_de_arqueologia_e_etnologia",
+            "id": 895,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 6,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu_de_arqueologia_e_etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "gilson_rambelli",
+            "id": 892,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "mae",
+            "id": 896,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 7,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "paulo_bava_de_camargo",
+            "id": 893,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "mae",
+            "id": 896,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 8,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "fl\u00e1vio_rizzi",
+            "id": 894,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "mae",
+            "id": 896,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 9,
+        "predicted_relation": "de ("
+    },
+    {
+        "sentence_id": 22,
+        "sentence": "os brasileiros ( gilson_rambelli , paulo_bava_de_camargo e fl\u00e1vio_rizzi , pesquisadores de o museu de arqueologia e etnologia ( mae ) de a usp ) acharam mesmo restos de um ou dois navios antigos , possivelmente portugueses de os s\u00e9culo 15 ou 16 , de a chamada tradi\u00e7\u00e3o ibero-atl\u00e2ntica .",
+        "head": {
+            "word": "gilson_rambelli",
+            "id": 892,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "usp",
+            "id": 47,
+            "category": "ORG"
+        },
+        "relation": "pesquisadores de",
+        "relation_id": 10,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 26,
+        "sentence": "esse v\u00edrus \u00e9 antigo e \u00e9 uma zoonose , diz o virologista paolo_zanotto , de a usp , que est\u00e1 preparando um diagn\u00f3stico molecular de a pneumonia .",
+        "head": {
+            "word": "paolo_zanotto",
+            "id": 84,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "usp",
+            "id": 47,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 27,
+        "sentence": "isso \u00e9 tudo o que esperam \u00f3rg\u00e3os como os institutos_nacionais_de_sa\u00fade ( nih ) de os eua , que correm atr\u00e1s_de uma vacina para a doen\u00e7a .",
+        "head": {
+            "word": "institutos_nacionais_de_sa\u00fade",
+            "id": 916,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "nih",
+            "id": 917,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 1,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 27,
+        "sentence": "isso \u00e9 tudo o que esperam \u00f3rg\u00e3os como os institutos_nacionais_de_sa\u00fade ( nih ) de os eua , que correm atr\u00e1s_de uma vacina para a doen\u00e7a .",
+        "head": {
+            "word": "institutos_nacionais_de_sa\u00fade",
+            "id": 916,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "( de"
+    },
+    {
+        "sentence_id": 27,
+        "sentence": "isso \u00e9 tudo o que esperam \u00f3rg\u00e3os como os institutos_nacionais_de_sa\u00fade ( nih ) de os eua , que correm atr\u00e1s de uma vacina para a doen\u00e7a .",
+        "head": {
+            "word": "nih",
+            "id": 917,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 3,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 28,
+        "sentence": "as an\u00e1lises feitas com diferentes genes sequenciados at\u00e9 o momento indicam que esse n\u00e3o parece ser um recombinante , disse a a folha a m\u00e9dica teresa_peret , de os cdc ( centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as ) de os eua , uma brasileira que integrou a equipe que identificou o v\u00edrus .",
+        "head": {
+            "word": "teresa_peret",
+            "id": 931,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "cdc",
+            "id": 932,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 4,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 28,
+        "sentence": "as an\u00e1lises feitas com diferentes genes sequenciados at\u00e9 o momento indicam que esse n\u00e3o parece ser um recombinante , disse a a folha a m\u00e9dica teresa_peret , de os cdc ( centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as ) de os eua , uma brasileira que integrou a equipe que identificou o v\u00edrus .",
+        "head": {
+            "word": "cdc",
+            "id": 932,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as",
+            "id": 933,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 5,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 28,
+        "sentence": "as an\u00e1lises feitas com diferentes genes sequenciados at\u00e9 o momento indicam que esse n\u00e3o parece ser um recombinante , disse a a folha a m\u00e9dica teresa_peret , de os cdc ( centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as ) de os eua , uma brasileira que integrou a equipe que identificou o v\u00edrus .",
+        "head": {
+            "word": "cdc",
+            "id": 932,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 6,
+        "predicted_relation": "( de"
+    },
+    {
+        "sentence_id": 28,
+        "sentence": "as an\u00e1lises feitas com diferentes genes sequenciados at\u00e9 o momento indicam que esse n\u00e3o parece ser um recombinante , disse a a folha a m\u00e9dica teresa_peret , de os cdc ( centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as ) de os eua , uma brasileira que integrou a equipe que identificou o v\u00edrus .",
+        "head": {
+            "word": "centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as",
+            "id": 933,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 7,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 28,
+        "sentence": "as an\u00e1lises feitas com diferentes genes sequenciados at\u00e9 o momento indicam que esse n\u00e3o parece ser um recombinante , disse a a folha a m\u00e9dica teresa_peret , de os cdc ( centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as ) de os eua , uma brasileira que integrou a equipe que identificou o v\u00edrus .",
+        "head": {
+            "word": "teresa_peret",
+            "id": 931,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "centros_para_controle_e_preven\u00e7\u00e3o_de_doen\u00e7as",
+            "id": 933,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 9,
+        "predicted_relation": "de ("
+    },
+    {
+        "sentence_id": 37,
+        "sentence": "para greg_laden , de a universidade_de_minnesota , e richard_wrangham , de a universidade_harvard , ra\u00edzes , tub\u00e9rculos e outros usos ( sigla em ingl\u00eas para \u00f3rg\u00e3os subterr\u00e2neos de armazenamento de as plantas ) permitiram que os primeiros homin\u00eddeos , como s\u00e3o conhecidos os ancestrais de o homem , sa\u00edssem de a mata fechada e colonizassem ambientes abertos a partir de uns 6 milh\u00f5es de anos atr\u00e1s .",
+        "head": {
+            "word": "greg_laden",
+            "id": 937,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "universidade_de_minnesota",
+            "id": 938,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 37,
+        "sentence": "para greg_laden , de a universidade_de_minnesota , e richard_wrangham , de a universidade_harvard , ra\u00edzes , tub\u00e9rculos e outros usos ( sigla em ingl\u00eas para \u00f3rg\u00e3os subterr\u00e2neos de armazenamento de as plantas ) permitiram que os primeiros homin\u00eddeos , como s\u00e3o conhecidos os ancestrais de o homem , sa\u00edssem de a mata fechada e colonizassem ambientes abertos a partir de uns 6 milh\u00f5es de anos atr\u00e1s .",
+        "head": {
+            "word": "richard_wrangham",
+            "id": 939,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "universidade_harvard",
+            "id": 940,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 5,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 38,
+        "sentence": "a estimativa anterior , de a onu ( organiza\u00e7\u00e3o_das_na\u00e7\u00f5es_unidas ) , calculava em meio bilh\u00e3o o n\u00famero de indiv\u00edduos expostos atualmente a o problema .",
+        "head": {
+            "word": "onu",
+            "id": 890,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "organiza\u00e7\u00e3o_das_na\u00e7\u00f5es_unidas",
+            "id": 966,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 1,
+        "predicted_relation": "onu ("
+    },
+    {
+        "sentence_id": 39,
+        "sentence": "o trabalho foi coordenado por o geocientista charles_v\u00f6r\u00f6smarty , de a universidade_de_new_hampshire , em os estados_unidos .",
+        "head": {
+            "word": "charles_v\u00f6r\u00f6smarty",
+            "id": 127,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "universidade_de_new_hampshire",
+            "id": 128,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 39,
+        "sentence": "o trabalho foi coordenado por o geocientista charles_v\u00f6r\u00f6smarty , de a universidade_de_new_hampshire , em os estados_unidos .",
+        "head": {
+            "word": "universidade_de_new_hampshire",
+            "id": 128,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "estados_unidos",
+            "id": 129,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 2,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 40,
+        "sentence": "a demanda aumenta de forma dr\u00e1stica em o mundo todo , afirmou o especialista em recursos h\u00eddricos jos\u00e9_galizia_tundisi , de o instituto_internacional_de_ecologia , em s\u00e3o_carlos ( sp ) .",
+        "head": {
+            "word": "jos\u00e9_galizia_tundisi",
+            "id": 982,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "instituto_internacional_de_ecologia",
+            "id": 983,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 40,
+        "sentence": "a demanda aumenta de forma dr\u00e1stica em o mundo todo , afirmou o especialista em recursos h\u00eddricos jos\u00e9_galizia_tundisi , de o instituto_internacional_de_ecologia , em s\u00e3o_carlos ( sp ) .",
+        "head": {
+            "word": "instituto_internacional_de_ecologia",
+            "id": 983,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "s\u00e3o_carlos",
+            "id": 984,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 2,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 40,
+        "sentence": "a demanda aumenta de forma dr\u00e1stica em o mundo todo , afirmou o especialista em recursos h\u00eddricos jos\u00e9_galizia_tundisi , de o instituto_internacional_de_ecologia , em s\u00e3o_carlos ( sp ) .",
+        "head": {
+            "word": "instituto_internacional_de_ecologia",
+            "id": 983,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "sp",
+            "id": 985,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 3,
+        "predicted_relation": "em ("
+    },
+    {
+        "sentence_id": 42,
+        "sentence": "pesquisadores de a universidade_de_michigan em ann_arbor , em os estados_unidos , sugerem que os olhos de asi\u00e1ticos tendem a ver uma imagem em o seu conjunto , prestando tanto aten\u00e7\u00e3o a o que est\u00e1 em primeiro plano quanto em o fundo , enquanto os americanos demoram mais o olhar em o objeto central de um quadro .",
+        "head": {
+            "word": "universidade_de_michigan",
+            "id": 145,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "ann_arbor",
+            "id": 146,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 42,
+        "sentence": "pesquisadores de a universidade_de_michigan em ann_arbor , em os estados_unidos , sugerem que os olhos de asi\u00e1ticos tendem a ver uma imagem em o seu conjunto , prestando tanto aten\u00e7\u00e3o a o que est\u00e1 em primeiro plano quanto em o fundo , enquanto os americanos demoram mais o olhar em o objeto central de um quadro .",
+        "head": {
+            "word": "universidade_de_michigan",
+            "id": 145,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "estados_unidos",
+            "id": 129,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 2,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 46,
+        "sentence": "depois de esse per\u00edodo , quem sobreviver ser\u00e1 levado a o z\u00f4o de san_diego , onde viver\u00e1 com seus colegas de esp\u00e9cie .",
+        "head": {
+            "word": "z\u00f4o",
+            "id": 990,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "san_diego",
+            "id": 991,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 48,
+        "sentence": "o achado foi apresentado por mark_mattson , de o instituto_nacional_do_envelhecimentos de os eua , durante a 170\u00aa reuni\u00e3o anual de a aaas ( associa\u00e7\u00e3o_americana_para_o_avan\u00e7o_da_ci\u00eancia ) , em seattle , em o noroeste de os estados_unidos .",
+        "head": {
+            "word": "mark_mattson",
+            "id": 997,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "instituto_nacional_do_envelhecimentos",
+            "id": 998,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 48,
+        "sentence": "o achado foi apresentado por mark_mattson , de o instituto_nacional_do_envelhecimentos de os eua , durante a 170\u00aa reuni\u00e3o anual de a aaas ( associa\u00e7\u00e3o_americana_para_o_avan\u00e7o_da_ci\u00eancia ) , em seattle , em o noroeste de os estados_unidos .",
+        "head": {
+            "word": "instituto_nacional_do_envelhecimentos",
+            "id": 998,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 49,
+        "sentence": "por outro lado , diz benjamin_wolozin , de o centro_m\u00e9dico_da_universidade_loyola ( chicago , eua ) , o local onde as mol\u00e9culas de colesterol se abrigam em a membrana \u00e9 tamb\u00e9m a regi\u00e3o em a qual est\u00e3o as enzimas ( mol\u00e9culas que aceleram rea\u00e7\u00f5es qu\u00edmicas ) respons\u00e1veis por produzir a beta-amil\u00f3ide .",
+        "head": {
+            "word": "benjamin_wolozin",
+            "id": 1005,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "centro_m\u00e9dico_da_universidade_loyola",
+            "id": 1006,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 49,
+        "sentence": "por outro lado , diz benjamin_wolozin , de o centro_m\u00e9dico_da_universidade_loyola ( chicago , eua ) , o local onde as mol\u00e9culas de colesterol se abrigam em a membrana \u00e9 tamb\u00e9m a regi\u00e3o em a qual est\u00e3o as enzimas ( mol\u00e9culas que aceleram rea\u00e7\u00f5es qu\u00edmicas ) respons\u00e1veis por produzir a beta-amil\u00f3ide .",
+        "head": {
+            "word": "centro_m\u00e9dico_da_universidade_loyola",
+            "id": 1006,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "chicago",
+            "id": 1007,
+            "category": "PLC"
+        },
+        "relation": "(",
+        "relation_id": 2,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 49,
+        "sentence": "por outro lado , diz benjamin_wolozin , de o centro_m\u00e9dico_da_universidade_loyola ( chicago , eua ) , o local onde as mol\u00e9culas de colesterol se abrigam em a membrana \u00e9 tamb\u00e9m a regi\u00e3o em a qual est\u00e3o as enzimas ( mol\u00e9culas que aceleram rea\u00e7\u00f5es qu\u00edmicas ) respons\u00e1veis por produzir a beta-amil\u00f3ide .",
+        "head": {
+            "word": "centro_m\u00e9dico_da_universidade_loyola",
+            "id": 1006,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "(",
+        "relation_id": 3,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 56,
+        "sentence": "\u00e9 uma descoberta e tanto , disse o psic\u00f3logo c\u00e9sar_ades , de a usp , especialista em comportamento de aranhas .",
+        "head": {
+            "word": "c\u00e9sar_ades",
+            "id": 1020,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "usp",
+            "id": 47,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 62,
+        "sentence": "o estudo , feito por pesquisadores de o imperial_college , em londres , mostra que , al\u00e9m disso isso , elas s\u00e3o capazes de originar outro tipo de c\u00e9lula ( c\u00e9lulas hep\u00e1ticas ) dentro do o organismo humano .",
+        "head": {
+            "word": "imperial_college",
+            "id": 1023,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "londres",
+            "id": 1024,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 64,
+        "sentence": "o trabalho de someya e seus colegas est\u00e1 publicado em a \u00faltima edi\u00e7\u00e3o de a revista de a academia_de_ci\u00eancias de os eua , a pnas ( www.pnas.org ) .",
+        "head": {
+            "word": "academia_de_ci\u00eancias",
+            "id": 1044,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 66,
+        "sentence": "\u00e9 o caso de schuyler_korban , de a universidade_de_illinois ( eua ) .",
+        "head": {
+            "word": "schuyler_korban",
+            "id": 1047,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "universidade_de_illinois",
+            "id": 1048,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 66,
+        "sentence": "\u00e9 o caso de schuyler_korban , de a universidade_de_illinois ( eua ) .",
+        "head": {
+            "word": "universidade_de_illinois",
+            "id": 1048,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "eua",
+            "id": 205,
+            "category": "PLC"
+        },
+        "relation": "(",
+        "relation_id": 2,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 69,
+        "sentence": "os estudos s\u00e3o bancados por a fapesp ( funda\u00e7\u00e3o_de_amparo_\u00e0_pesquisa_do_estado_de_s\u00e3o_paulo ) e por o cnpq ( conselho_nacional_de_desenvolvimento_cient\u00edfico_e_tecnol\u00f3gico ) .",
+        "head": {
+            "word": "cnpq",
+            "id": 1052,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "conselho_nacional_de_desenvolvimento_cient\u00edfico_e_tecnol\u00f3gico",
+            "id": 1053,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 3,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 69,
+        "sentence": "os estudos s\u00e3o bancados por a fapesp ( funda\u00e7\u00e3o_de_amparo_\u00e0_pesquisa_do_estado_de_s\u00e3o_paulo ) e por o cnpq ( conselho_nacional_de_desenvolvimento_cient\u00edfico_e_tecnol\u00f3gico ) .",
+        "head": {
+            "word": "fapesp",
+            "id": 1050,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "funda\u00e7\u00e3o_de_amparo_\u00e0_pesquisa_do_estado_de_s\u00e3o_paulo",
+            "id": 1051,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 4,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 74,
+        "sentence": "bioantrop\u00f3logo de a universidade_macmaster , em o canad\u00e1 , est\u00e1 prestes a investigar a rela\u00e7\u00e3o entre neandertais e humanos modernos olhando n\u00e3o para seus cr\u00e2nios , mas para o que eles defecavam , e para as mol\u00e9culas que podem contar a hist\u00f3ria de eles , ocultas ali dentro .",
+        "head": {
+            "word": "universidade_macmaster",
+            "id": 1055,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "canad\u00e1",
+            "id": 1056,
+            "category": "ORG"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 80,
+        "sentence": "em oito anos , detectamos mais de 300 eventos , gra\u00e7as ao nosso sistema de calibragem de os dados de sat\u00e9lite , conta douglas_revelle , de o laborat\u00f3rio_nacional_de_los_alamos , um de os autores de o estudo , que est\u00e1 publicado em a edi\u00e7\u00e3o de hoje de a revista brit\u00e2nica nature classentity ( www.nature.com ) .",
+        "head": {
+            "word": "douglas_revelle",
+            "id": 1082,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "laborat\u00f3rio_nacional_de_los_alamos",
+            "id": 1083,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 81,
+        "sentence": "esses corpos medidos em metros s\u00e3o interessantes cientificamente , mas n\u00e3o oferecem absolutamente nenhum perigo a os humanos , diz robert_jedicke , de a universidade_do_arizona , escolhido por a nature para comentar o estudo .",
+        "head": {
+            "word": "robert_jedicke",
+            "id": 1097,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "universidade_do_arizona",
+            "id": 1098,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 93,
+        "sentence": "o navio trazia compensados de madeira exportados por a selvaplac , subsidi\u00e1ria brasileira de um grupo de a mal\u00e1sia .",
+        "head": {
+            "word": "selvaplac",
+            "id": 234,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "mal\u00e1sia",
+            "id": 238,
+            "category": "PLC"
+        },
+        "relation": "subsidi\u00e1ria brasileira de um grupo de",
+        "relation_id": 1,
+        "predicted_relation": "subsidi\u00e1ria brasileira de um grupo de"
+    },
+    {
+        "sentence_id": 105,
+        "sentence": "\u00e9 tamb\u00e9m o qu\u00e9nia , ao lado de a nig\u00e9ria , que se incendeia , diz moncef_kaabi , de a natixis , \u00e9 tamb\u00e9m a turquia , com as opera\u00e7\u00f5es contra os separatistas curdos em o norte , justificando que mercados como o de o petr\u00f3leo traduzem a inquieta\u00e7\u00e3o e a incerteza de os investidores .",
+        "head": {
+            "word": "moncef_kaabi",
+            "id": 1104,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "natixis",
+            "id": 1105,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 108,
+        "sentence": "pcp de braga promove lanche e interven\u00e7\u00e3o pol\u00edtica ; a comiss\u00e3o_concelhia_de_braga_do_pcp promove s\u00e1bado um lanche e uma interven\u00e7\u00e3o pol\u00edtica , que v\u00e3o decorrer em o centro_de_trabalho de o pcp .",
+        "head": {
+            "word": "pcp",
+            "id": 1116,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "braga",
+            "id": 1117,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de pcp ."
+    },
+    {
+        "sentence_id": 119,
+        "sentence": "situada dentro de um parqued de 6 acres e somente a alguns minutos de o aeroporto internacional e de a cidade , a est\u00e2ncia_de_cinco_estrelas_martino \u00e9 o lugar mais conveniente para se ficar em a costa_rica para umas f\u00e9rias agrad\u00e1veis , e o lugar ideal a partir de o qual voc\u00ea pode viajar por todo o pa\u00eds .",
+        "head": {
+            "word": "est\u00e2ncia_de_cinco_estrelas_martino",
+            "id": 1133,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "costa_rica",
+            "id": 1137,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "ficar em"
+    },
+    {
+        "sentence_id": 120,
+        "sentence": "de as ag\u00eancias internacionais ; o governo de a r\u00fassia vai apoiar uma a\u00e7\u00e3o de a otan contra as posi\u00e7\u00f5es s\u00e9rvias ao redor de sarajevo como \u00faltimo recurso , para defender as tropas de a onu , disse ontem o chanceler andrei_kozirev .",
+        "head": {
+            "word": "sarajevo",
+            "id": 1153,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "onu",
+            "id": 890,
+            "category": "ORG"
+        },
+        "relation": "defender",
+        "relation_id": 2,
+        "predicted_relation": "as tropas de"
+    },
+    {
+        "sentence_id": 120,
+        "sentence": "de as ag\u00eancias internacionais ; o governo de a r\u00fassia vai apoiar uma a\u00e7\u00e3o de a otan contra as posi\u00e7\u00f5es s\u00e9rvias ao redor de sarajevo como \u00faltimo recurso , para defender as tropas de a onu , disse ontem o chanceler andrei_kozirev .",
+        "head": {
+            "word": "r\u00fassia",
+            "id": 1146,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "otan",
+            "id": 1149,
+            "category": "ORG"
+        },
+        "relation": "vai apoiar uma a\u00e7\u00e3o de",
+        "relation_id": 3,
+        "predicted_relation": "apoiar uma a\u00e7\u00e3o de"
+    },
+    {
+        "sentence_id": 126,
+        "sentence": "apesar de o veto , o guaran\u00e1_power , feito em colabora\u00e7\u00e3o com a cooperativa_de_agricultores de a regi\u00e3o_de_mau\u00e9s , em a amaz\u00f4nia , chegou a ser distribu\u00eddo em museus e em a pr\u00f3pria vermelho , durante a bienal .",
+        "head": {
+            "word": "cooperativa_de_agricultores",
+            "id": 1162,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "regi\u00e3o_de_mau\u00e9s",
+            "id": 1163,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 127,
+        "sentence": "em o pr\u00f3ximo s\u00e1bado , a as 16h , ronaldo_lemos , diretor de o creative_commons em o brasil , ir\u00e1 participar de um debate com os membros de o superflex , em a vermelho , e logo ap\u00f3s ser\u00e1 realizada uma gincana intitulada free_beer_pub_quiz , em a qual participantes receber\u00e3o pr\u00eamios a o responderem quest\u00f5es sobre propriedade intelectual e direitos autorais .",
+        "head": {
+            "word": "creative_commons",
+            "id": 360,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "brasil",
+            "id": 361,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 127,
+        "sentence": "em o pr\u00f3ximo s\u00e1bado , a as 16h , ronaldo_lemos , diretor de o creative_commons em o brasil , ir\u00e1 participar de um debate com os membros de o superflex , em a vermelho , e logo ap\u00f3s ser\u00e1 realizada uma gincana intitulada free_beer_pub_quiz , em a qual participantes receber\u00e3o pr\u00eamios a o responderem quest\u00f5es sobre propriedade intelectual e direitos autorais .",
+        "head": {
+            "word": "ronaldo_lemos",
+            "id": 358,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "creative_commons",
+            "id": 360,
+            "category": "ORG"
+        },
+        "relation": "diretor de",
+        "relation_id": 2,
+        "predicted_relation": "diretor de"
+    },
+    {
+        "sentence_id": 134,
+        "sentence": "o conselho_europeu_metodista reuniu em o passado m\u00eas de setembro em stuttgart , alemanha .",
+        "head": {
+            "word": "conselho_europeu_metodista",
+            "id": 1171,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "stuttgart",
+            "id": 1176,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "em passado m\u00eas de"
+    },
+    {
+        "sentence_id": 135,
+        "sentence": "( bispo_sifredo ) - carta a o primeiro_ministro - a paz precisa de uma oportunidade - manifesto_ecum\u00e9nico_jovem contra a guerra - world_council_of_churches - wars can not be won , only peace can - world_alliance_of_reformed_churches condena a guerra em o iraque departamentos_federa\u00e7\u00e3o de mulheres_juventude_comiss\u00f5es_evangeliza\u00e7\u00e3o e educ . liturgia .",
+        "head": {
+            "word": "world_alliance_of_reformed_churches",
+            "id": 1193,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "iraque",
+            "id": 1195,
+            "category": "PLC"
+        },
+        "relation": "condena a guerra em",
+        "relation_id": 1,
+        "predicted_relation": "condena a guerra em de"
+    },
+    {
+        "sentence_id": 139,
+        "sentence": "a abertura de o evento contou com a presen\u00e7a de fernando_gomes , presidente de a c\u00e2mara_municipal_do_porto , e de o vereador wan_chun , em representa\u00e7\u00e3o de sales_marques , presidente de o leal_senado , a qual foi enriquecida com um pequeno concerto em que os instrumentistas wong_on_yuen e ant\u00f3nio_ferro , tocando ehru e viola-baixo , respectivamente , interpretaram v\u00e1rias pe\u00e7as editadas em o disco compacto sinais_de_yuanju .",
+        "head": {
+            "word": "fernando_gomes",
+            "id": 401,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "c\u00e2mara_municipal_do_porto",
+            "id": 403,
+            "category": "ORG"
+        },
+        "relation": "presidente de",
+        "relation_id": 1,
+        "predicted_relation": "presidente de"
+    },
+    {
+        "sentence_id": 139,
+        "sentence": "a abertura de o evento contou com a presen\u00e7a de fernando_gomes , presidente de a c\u00e2mara_municipal_do_porto , e de o vereador wan_chun , em representa\u00e7\u00e3o de sales_marques , presidente de o leal_senado , a qual foi enriquecida com um pequeno concerto em que os instrumentistas wong_on_yuen e ant\u00f3nio_ferro , tocando ehru e viola-baixo , respectivamente , interpretaram v\u00e1rias pe\u00e7as editadas em o disco compacto sinais_de_yuanju .",
+        "head": {
+            "word": "sales_marques",
+            "id": 407,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "leal_senado",
+            "id": 408,
+            "category": "ORG"
+        },
+        "relation": "presidente de",
+        "relation_id": 2,
+        "predicted_relation": "presidente de"
+    },
+    {
+        "sentence_id": 142,
+        "sentence": "mas , seja como for , pe\u00e7o expressamente que ningu\u00e9m , em o final de este per\u00edodo de sess\u00f5es , possa afirmar que o parlamento enquanto tal , em o esp\u00edrito e em o seguimento de a sua magn\u00edfica declara\u00e7\u00e3o , n\u00e3o se pronunciou a favor de o retorno de a paz em israel e em o pr\u00f3ximo_oriente .",
+        "head": {
+            "word": "parlamento",
+            "id": 1208,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "israel",
+            "id": 1216,
+            "category": "PLC"
+        },
+        "relation": "n\u00e3o se pronunciou a favor de o retorno de a paz em",
+        "relation_id": 1,
+        "predicted_relation": "paz em em"
+    },
+    {
+        "sentence_id": 142,
+        "sentence": "mas , seja como for , pe\u00e7o expressamente que ningu\u00e9m , em o final de este per\u00edodo de sess\u00f5es , possa afirmar que o parlamento enquanto tal , em o esp\u00edrito e em o seguimento de a sua magn\u00edfica declara\u00e7\u00e3o , n\u00e3o se pronunciou a favor de o retorno de a paz em israel e em o pr\u00f3ximo_oriente .",
+        "head": {
+            "word": "parlamento",
+            "id": 1208,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "pr\u00f3ximo_oriente",
+            "id": 1217,
+            "category": "PLC"
+        },
+        "relation": "n\u00e3o se pronunciou a favor de o retorno de a paz em",
+        "relation_id": 2,
+        "predicted_relation": "em ."
+    },
+    {
+        "sentence_id": 147,
+        "sentence": "fr ) senhora_presidente , gostaria de voltar por um momento a o drama recordado por o nosso colega belga , vivido por certos refugiados em este momento , em a europa , em algumas de as nossas fronteiras , para lhes comunicar que me desloquei , h\u00e1 uma semana , a o centro de sangatte aberto por o governo franc\u00eas e gerido por a cruz_vermelha .",
+        "head": {
+            "word": "sangatte",
+            "id": 1235,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "governo",
+            "id": 425,
+            "category": "ORG"
+        },
+        "relation": "aberto por",
+        "relation_id": 1,
+        "predicted_relation": "aberto por"
+    },
+    {
+        "sentence_id": 147,
+        "sentence": "fr ) senhora_presidente , gostaria de voltar por um momento a o drama recordado por o nosso colega belga , vivido por certos refugiados em este momento , em a europa , em algumas de as nossas fronteiras , para lhes comunicar que me desloquei , h\u00e1 uma semana , a o centro de sangatte aberto por o governo franc\u00eas e gerido por a cruz_vermelha .",
+        "head": {
+            "word": "sangatte",
+            "id": 1235,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "cruz_vermelha",
+            "id": 1239,
+            "category": "ORG"
+        },
+        "relation": "gerido por",
+        "relation_id": 2,
+        "predicted_relation": "gerido por"
+    },
+    {
+        "sentence_id": 164,
+        "sentence": "com esta aposta em a imagem , os portos de set\u00fabal e sesimbra preparam-se para o fim de a d\u00e9cada , quando tiverem como grande cliente a f\u00e1brica de a ford/volkswagen .",
+        "head": {
+            "word": "sesimbra",
+            "id": 437,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "ford/volkswagen",
+            "id": 445,
+            "category": "ORG"
+        },
+        "relation": "quando tiverem",
+        "relation_id": 1,
+        "predicted_relation": "quando tiverem"
+    },
+    {
+        "sentence_id": 164,
+        "sentence": "com esta aposta em a imagem , os portos de set\u00fabal e sesimbra preparam-se para o fim de a d\u00e9cada , quando tiverem como grande cliente a f\u00e1brica de a ford/volkswagen .",
+        "head": {
+            "word": "set\u00fabal",
+            "id": 436,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "ford/volkswagen",
+            "id": 445,
+            "category": "ORG"
+        },
+        "relation": "quando tiverem",
+        "relation_id": 2,
+        "predicted_relation": "quando tiverem"
+    },
+    {
+        "sentence_id": 165,
+        "sentence": "os documentos em causa foram colecionados em o ano passado por um painel de cientistas acad\u00eamicos e industriais para avaliar recentes investiga\u00e7\u00f5es de armas n\u00e3o letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pent\u00e1gono .",
+        "head": {
+            "word": "joint_non-lethal_weapons_program",
+            "id": 1252,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "pent\u00e1gono",
+            "id": 1254,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de pent\u00e1gono ."
+    },
+    {
+        "sentence_id": 165,
+        "sentence": "os documentos em causa foram colecionados em o ano passado por um painel de cientistas acad\u00eamicos e industriais para avaliar recentes investiga\u00e7\u00f5es de armas n\u00e3o letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pent\u00e1gono .",
+        "head": {
+            "word": "jnlwp",
+            "id": 1253,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "pent\u00e1gono",
+            "id": 1254,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de pent\u00e1gono ."
+    },
+    {
+        "sentence_id": 165,
+        "sentence": "os documentos em causa foram colecionados em o ano passado por um painel de cientistas acad\u00eamicos e industriais para avaliar recentes investiga\u00e7\u00f5es de armas n\u00e3o letais para o joint_non-lethal_weapons_program ( jnlwp ) , de o pent\u00e1gono .",
+        "head": {
+            "word": "joint_non-lethal_weapons_program",
+            "id": 1252,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "jnlwp",
+            "id": 1253,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 3,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 171,
+        "sentence": "a pergunta de o onde est\u00e1 \u00e9 tradicional em a comunica\u00e7\u00e3o social e em alguns casos foi feita com estragos consider\u00e1veis , como aconteceu com v\u00edtor_const\u00e2ncio a a frente de o ps .",
+        "head": {
+            "word": "v\u00edtor_const\u00e2ncio",
+            "id": 1264,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "ps",
+            "id": 631,
+            "category": "ORG"
+        },
+        "relation": "a a frente de",
+        "relation_id": 1,
+        "predicted_relation": "a frente de ps ."
+    },
+    {
+        "sentence_id": 177,
+        "sentence": "dur\u00e3o_barroso discursava em a sess\u00e3o plen\u00e1ria extraordin\u00e1ria de o parlamento_europeu , durante a qual jos\u00e9_s\u00f3crates apresentou os resultados de a presid\u00eancia portuguesa de a ue .",
+        "head": {
+            "word": "parlamento_europeu",
+            "id": 1271,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "ue",
+            "id": 763,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": ""
+    },
+    {
+        "sentence_id": 177,
+        "sentence": "dur\u00e3o_barroso discursava em a sess\u00e3o plen\u00e1ria extraordin\u00e1ria de o parlamento_europeu , durante a qual jos\u00e9_s\u00f3crates apresentou os resultados de a presid\u00eancia portuguesa de a ue .",
+        "head": {
+            "word": "dur\u00e3o_barroso",
+            "id": 1266,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "parlamento_europeu",
+            "id": 1271,
+            "category": "ORG"
+        },
+        "relation": "discursava em",
+        "relation_id": 2,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 180,
+        "sentence": "dur\u00e3o_barroso acrescentou a a longa lista de sucessos enunciados por s\u00f3crates outros que considerou tamb\u00e9m importantes , como a decis\u00e3o de criar o instituto_europeu_de_tecnologia e o lan\u00e7amento de uma pol\u00edtica_mar\u00edtima_europeia .",
+        "head": {
+            "word": "s\u00f3crates",
+            "id": 1279,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "instituto_europeu_de_tecnologia",
+            "id": 1283,
+            "category": "ORG"
+        },
+        "relation": "a decis\u00e3o de criar",
+        "relation_id": 2,
+        "predicted_relation": "decis\u00e3o de criar"
+    },
+    {
+        "sentence_id": 185,
+        "sentence": "hans-gert_p\u00f6ttering destacou ainda a import\u00e2ncia , para o pe , de ver reconhecido o valor juridicamente vinculativo de a carta , um passo essencial em o quadro de reforma de os tratados e essencial para a identidade europeia .",
+        "head": {
+            "word": "hans-gert_p\u00f6ttering",
+            "id": 1286,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "pe",
+            "id": 1287,
+            "category": "ORG"
+        },
+        "relation": "destacou para",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 188,
+        "sentence": "em o mesmo registo , martin_schulz ( pse , de ) , l\u00edder de o pse , recordou que , em a rep\u00fablica_de_weimar , se queria acabar com os inimigos em forma de coro e quem dirigia esse coro era hitler .",
+        "head": {
+            "word": "martin_schulz",
+            "id": 448,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "pse",
+            "id": 449,
+            "category": "ORG"
+        },
+        "relation": "l\u00edder de",
+        "relation_id": 1,
+        "predicted_relation": "l\u00edder de"
+    },
+    {
+        "sentence_id": 190,
+        "sentence": "francis_wurtz , de a ceue/evn , condenou de maneira absoluta as declara\u00e7\u00f5es antieuropeias e indignas que se ouviram em o hemiciclo : o meu grupo est\u00e1 a favor de um referendo , mas op\u00f5e-se a ac\u00e7\u00f5es como esta , afirmou .",
+        "head": {
+            "word": "francis_wurtz",
+            "id": 1296,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "ceue/evn",
+            "id": 1297,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 198,
+        "sentence": "em declara\u00e7\u00f5es a a ag\u00eancia lusa , ant\u00f3nio_fontes , de a aipan , disse que o pre\u00e7o de o p\u00e3o ter\u00e1 de aumentar para fazer face a a subida de 92 % registada ao longo de 2007 em o pre\u00e7o de a mat\u00e9ria-prima de base ( farinha ) .",
+        "head": {
+            "word": "ant\u00f3nio_fontes",
+            "id": 1310,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "aipan",
+            "id": 1311,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 199,
+        "sentence": "atrav\u00e9s da casa_de_cinema de porto_alegre , esse grupo produziu obras-primas como o curta-metragem ilha_das_flores e apresentou para o pa\u00eds cineastas como jorge_furtado , considerado um de os mais interessantes realizadores de o cinema brasileiro atual .",
+        "head": {
+            "word": "casa_de_cinema",
+            "id": 462,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "porto_alegre",
+            "id": 463,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 210,
+        "sentence": "em a mesma linha , o vereador lembra que a ferro-t\u00eaxtil foi licenciada por o minist\u00e9rio_da_ind\u00fastria de o governo cessante , a quem dever\u00e1 ser imputada a responsabilidade de eventuais problemas .",
+        "head": {
+            "word": "ferro-t\u00eaxtil",
+            "id": 495,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "minist\u00e9rio_da_ind\u00fastria",
+            "id": 497,
+            "category": "ORG"
+        },
+        "relation": "licenciada por",
+        "relation_id": 1,
+        "predicted_relation": "licenciada por"
+    },
+    {
+        "sentence_id": 210,
+        "sentence": "em a mesma linha , o vereador lembra que a ferro-t\u00eaxtil foi licenciada por o minist\u00e9rio_da_ind\u00fastria de o governo cessante , a quem dever\u00e1 ser imputada a responsabilidade de eventuais problemas .",
+        "head": {
+            "word": "minist\u00e9rio_da_ind\u00fastria",
+            "id": 497,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "governo",
+            "id": 425,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 214,
+        "sentence": "a ar\u00e1bia_saudita era um de os tr\u00eas pa\u00edses de o mundo que reconheciam , em o afeganist\u00e3o , o governo talib\u00e3 .",
+        "head": {
+            "word": "ar\u00e1bia_saudita",
+            "id": 1327,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "talib\u00e3",
+            "id": 1331,
+            "category": "ORG"
+        },
+        "relation": "reconheciam o governo",
+        "relation_id": 1,
+        "predicted_relation": "de ."
+    },
+    {
+        "sentence_id": 214,
+        "sentence": "a ar\u00e1bia_saudita era um de os tr\u00eas pa\u00edses de o mundo que reconheciam , em o afeganist\u00e3o , o governo talib\u00e3 .",
+        "head": {
+            "word": "ar\u00e1bia_saudita",
+            "id": 1327,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "afeganist\u00e3o",
+            "id": 1330,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 2,
+        "predicted_relation": "em afeganist\u00e3o , o"
+    },
+    {
+        "sentence_id": 214,
+        "sentence": "a ar\u00e1bia_saudita era um de os tr\u00eas pa\u00edses de o mundo que reconheciam , em o afeganist\u00e3o , o governo talib\u00e3 .",
+        "head": {
+            "word": "afeganist\u00e3o",
+            "id": 1330,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "talib\u00e3",
+            "id": 1331,
+            "category": "ORG"
+        },
+        "relation": "o governo",
+        "relation_id": 3,
+        "predicted_relation": "afeganist\u00e3o , o governo"
+    },
+    {
+        "sentence_id": 216,
+        "sentence": "no entanto , christina_eisenberg , uma bi\u00f3loga que estuda os lobos e trabalha para o servi\u00e7o_americano_de_vida_selvagem_e_aqu\u00e1tica conta que parou de usar o sistema porque ele travava inesperadamente .",
+        "head": {
+            "word": "christina_eisenberg",
+            "id": 1334,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "servi\u00e7o_americano_de_vida_selvagem_e_aqu\u00e1tica",
+            "id": 1337,
+            "category": "ORG"
+        },
+        "relation": "trabalha para",
+        "relation_id": 1,
+        "predicted_relation": "trabalha para"
+    },
+    {
+        "sentence_id": 217,
+        "sentence": "almeida_henriques , presidente de a associa\u00e7\u00e3o_industrial_da_regi\u00e3o_de_viseu ( airv ) , \u00e9 o novo rosto de o conselho_empresarial_do_centro ( cec ) .",
+        "head": {
+            "word": "almeida_henriques",
+            "id": 1343,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "associa\u00e7\u00e3o_industrial_da_regi\u00e3o_de_viseu",
+            "id": 1344,
+            "category": "ORG"
+        },
+        "relation": "presidente de",
+        "relation_id": 2,
+        "predicted_relation": "presidente de"
+    },
+    {
+        "sentence_id": 217,
+        "sentence": "almeida_henriques , presidente de a associa\u00e7\u00e3o_industrial_da_regi\u00e3o_de_viseu ( airv ) , \u00e9 o novo rosto de o conselho_empresarial_do_centro ( cec ) .",
+        "head": {
+            "word": "almeida_henriques",
+            "id": 1343,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "conselho_empresarial_do_centro",
+            "id": 1347,
+            "category": "ORG"
+        },
+        "relation": "rosto de",
+        "relation_id": 3,
+        "predicted_relation": "de ("
+    },
+    {
+        "sentence_id": 225,
+        "sentence": "coma a a vontade : a equipe de o jornal_do_nikkey esteve pesquisando um lado gostoso de a liberdade em s\u00e3o_paulo .",
+        "head": {
+            "word": "jornal_do_nikkey",
+            "id": 1350,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "s\u00e3o_paulo",
+            "id": 96,
+            "category": "PLC"
+        },
+        "relation": "pesquisando em",
+        "relation_id": 1,
+        "predicted_relation": "liberdade em"
+    },
+    {
+        "sentence_id": 228,
+        "sentence": "se isto estivesse em vias de acontecer , o bibli\u00f3filo jos\u00e9_mindlin , 90 anos , dono de uma de as mais importantes bibliotecas de o brasil e s\u00edmbolo nacional de o culto a o livro , n\u00e3o teria se encontrado esta semana com seu colega americano , matthew_battles , 35 , editor de o boletim de a biblioteca_houghton , que guarda as obras raras de harvard .",
+        "head": {
+            "word": "matthew_battles",
+            "id": 1370,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "biblioteca_houghton",
+            "id": 1374,
+            "category": "ORG"
+        },
+        "relation": "editor de",
+        "relation_id": 2,
+        "predicted_relation": "de de obras"
+    },
+    {
+        "sentence_id": 235,
+        "sentence": "em o norte , uma for\u00e7a de o cica_1 liderada por o tenente-coronel_carlos_azeredo toma o quartel_general de a regi\u00e3o_militar_do_porto .",
+        "head": {
+            "word": "cica_1",
+            "id": 744,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "tenente-coronel_carlos_azeredo",
+            "id": 1379,
+            "category": "PER"
+        },
+        "relation": "liderada por",
+        "relation_id": 1,
+        "predicted_relation": "por"
+    },
+    {
+        "sentence_id": 244,
+        "sentence": "transferindo-se o governo portugu\u00eas para o brasil sob a prote\u00e7\u00e3o inglesa e operando-se a independ\u00eancia sem descontinuidade em a chefia de o governo , os privil\u00e9gios econ\u00f4micos de que se beneficiava a inglaterra em portugal transferiram-se automaticamente para o brasil independente .",
+        "head": {
+            "word": "inglaterra",
+            "id": 1393,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "portugal",
+            "id": 566,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 247,
+        "sentence": "e se ele avan\u00e7ar , as mais recentes sondagens indicam que o boletim de voto de as elei\u00e7\u00f5es de 2008 podem ter tr\u00eas rostos ligados a a big_apple : hillary_clinton , senadora por o estado de nova_iorque , rudy_giuliani , o republicano que j\u00e1 foi presidente de a c\u00e2mara de a cidade , e michael_bloomberg , o homem que sucedeu a giuliani em o cargo .",
+        "head": {
+            "word": "rudy_giuliani",
+            "id": 1409,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "c\u00e2mara",
+            "id": 247,
+            "category": "ORG"
+        },
+        "relation": "presidente de",
+        "relation_id": 2,
+        "predicted_relation": "presidente de"
+    },
+    {
+        "sentence_id": 249,
+        "sentence": "em o dia 30 de junho , a comiss\u00e3o_de_controle_e_gest\u00e3o_fiscal , de o minist\u00e9rio_da_fazenda , publicou , em o di\u00e1rio_oficial , uma recomenda\u00e7\u00e3o a o minist\u00e9rio_de_or\u00e7amento_e_gest\u00e3o , por a autoriza\u00e7\u00e3o para a abertura de concursos .",
+        "head": {
+            "word": "comiss\u00e3o_de_controle_e_gest\u00e3o_fiscal",
+            "id": 1416,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "minist\u00e9rio_da_fazenda",
+            "id": 1417,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 249,
+        "sentence": "em o dia 30 de junho , a comiss\u00e3o_de_controle_e_gest\u00e3o_fiscal , de o minist\u00e9rio_da_fazenda , publicou , em o di\u00e1rio_oficial , uma recomenda\u00e7\u00e3o a o minist\u00e9rio_de_or\u00e7amento_e_gest\u00e3o , por a autoriza\u00e7\u00e3o para a abertura de concursos .",
+        "head": {
+            "word": "comiss\u00e3o_de_controle_e_gest\u00e3o_fiscal",
+            "id": 1416,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "minist\u00e9rio_de_or\u00e7amento_e_gest\u00e3o",
+            "id": 1421,
+            "category": "ORG"
+        },
+        "relation": "recomenda\u00e7\u00e3o a",
+        "relation_id": 2,
+        "predicted_relation": "de por autoriza\u00e7\u00e3o"
+    },
+    {
+        "sentence_id": 256,
+        "sentence": "em 06/11/1982 foi oficialmente inaugurado o pr\u00e9dio principal , tendo como patrono o dr._jos\u00e9_get\u00falio_lima ( advogado e professor , pai de o dr._jos\u00e9_carlos_de_barros_lima ) , que atuou muito em a \u00e1rea educacional de a regi\u00e3o tendo sido o fundador , entre outros , de o gin\u00e1sio conselheiro_lafayette ( 1942 ) posteriormente gin\u00e1sio_estadual_anhanguera e atualmente e.e.s.g . pereira_barreto .",
+        "head": {
+            "word": "dr._jos\u00e9_get\u00falio_lima",
+            "id": 1430,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "conselheiro_lafayette",
+            "id": 1440,
+            "category": "ORG"
+        },
+        "relation": "o fundador",
+        "relation_id": 1,
+        "predicted_relation": "( advogado ("
+    },
+    {
+        "sentence_id": 259,
+        "sentence": "a legi\u00e3o_da_boa_vontade , institui\u00e7\u00e3o educacional , cultural , beneficente e filantr\u00f3pica , foi fundada em o brasil por o jornalista , radialista e poeta alziro_zarur em o programa de r\u00e1dio hora_da_boa_vontade , em a r\u00e1dio_globo de o rio_de_janeiro .",
+        "head": {
+            "word": "legi\u00e3o_da_boa_vontade",
+            "id": 574,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "brasil",
+            "id": 361,
+            "category": "PLC"
+        },
+        "relation": "fundada em",
+        "relation_id": 1,
+        "predicted_relation": ""
+    },
+    {
+        "sentence_id": 259,
+        "sentence": "a legi\u00e3o_da_boa_vontade , institui\u00e7\u00e3o educacional , cultural , beneficente e filantr\u00f3pica , foi fundada em o brasil por o jornalista , radialista e poeta alziro_zarur em o programa de r\u00e1dio hora_da_boa_vontade , em a r\u00e1dio_globo de o rio_de_janeiro .",
+        "head": {
+            "word": "legi\u00e3o_da_boa_vontade",
+            "id": 574,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "alziro_zarur",
+            "id": 1453,
+            "category": "PER"
+        },
+        "relation": "fundada por",
+        "relation_id": 4,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 269,
+        "sentence": "por o mesmo diapas\u00e3o alinhou o delegado em lagoa de a associa\u00e7\u00e3o_de_agricultores_de_famalic\u00e3o , ant\u00f3nio_ribeiro , em declara\u00e7\u00f5es a o p\u00fablico : a c\u00e2mara nunca falou com n\u00f3s , fizeram tudo em as costas de as pessoas .",
+        "head": {
+            "word": "ant\u00f3nio_ribeiro",
+            "id": 1463,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "p\u00fablico",
+            "id": 1464,
+            "category": "ORG"
+        },
+        "relation": "em declara\u00e7\u00f5es a",
+        "relation_id": 2,
+        "predicted_relation": "em declara\u00e7\u00f5es a"
+    },
+    {
+        "sentence_id": 272,
+        "sentence": "confrontado com as acusa\u00e7\u00f5es sociais-democratas , saraiva_dias , vereador substituto de o presidente de a autarquia , referiu a o p\u00fablico que o comunicado de o psd cont\u00e9m um conjunto de atoardas , distantes de a realidade .",
+        "head": {
+            "word": "saraiva_dias",
+            "id": 1472,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "p\u00fablico",
+            "id": 1464,
+            "category": "ORG"
+        },
+        "relation": "referiu a",
+        "relation_id": 1,
+        "predicted_relation": "de a"
+    },
+    {
+        "sentence_id": 284,
+        "sentence": "e este dado torna o estatuto de independente muito atraente - um fen\u00f3meno semelhante a o verificado com a candidatura de manuel_alegre , em as \u00faltimas presidenciais portuguesas , ou com aquilo que esperam conseguir helena_roseta e carmona_rodrigues em as pr\u00f3ximas elei\u00e7\u00f5es intercalares para a c\u00e2mara_de_lisboa .",
+        "head": {
+            "word": "helena_roseta",
+            "id": 1494,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "c\u00e2mara_de_lisboa",
+            "id": 1498,
+            "category": "ORG"
+        },
+        "relation": "elei\u00e7\u00f5es para",
+        "relation_id": 2,
+        "predicted_relation": "em"
+    },
+    {
+        "sentence_id": 284,
+        "sentence": "e este dado torna o estatuto de independente muito atraente - um fen\u00f3meno semelhante a o verificado com a candidatura de manuel_alegre , em as \u00faltimas presidenciais portuguesas , ou com aquilo que esperam conseguir helena_roseta e carmona_rodrigues em as pr\u00f3ximas elei\u00e7\u00f5es intercalares para a c\u00e2mara_de_lisboa .",
+        "head": {
+            "word": "carmona_rodrigues",
+            "id": 1495,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "c\u00e2mara_de_lisboa",
+            "id": 1498,
+            "category": "ORG"
+        },
+        "relation": "elei\u00e7\u00f5es para",
+        "relation_id": 3,
+        "predicted_relation": "em elei\u00e7\u00f5es"
+    },
+    {
+        "sentence_id": 289,
+        "sentence": "em 1956 , am\u00edlcar_cabral criou o partido_africano_para_a_independ\u00eancia_da_guin\u00e9_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independ\u00eancia .",
+        "head": {
+            "word": "am\u00edlcar_cabral",
+            "id": 592,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "partido_africano_para_a_independ\u00eancia_da_guin\u00e9_e_cabo_verde",
+            "id": 1499,
+            "category": "ORG"
+        },
+        "relation": "criou",
+        "relation_id": 1,
+        "predicted_relation": "criou"
+    },
+    {
+        "sentence_id": 289,
+        "sentence": "em 1956 , am\u00edlcar_cabral criou o partido_africano_para_a_independ\u00eancia_da_guin\u00e9_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independ\u00eancia .",
+        "head": {
+            "word": "am\u00edlcar_cabral",
+            "id": 592,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "paigc",
+            "id": 597,
+            "category": "ORG"
+        },
+        "relation": "criou",
+        "relation_id": 2,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 289,
+        "sentence": "em 1956 , am\u00edlcar_cabral criou o partido_africano_para_a_independ\u00eancia_da_guin\u00e9_e_cabo_verde ( paigc ) , lutando contra o colonialismo e iniciando uma marcha para a independ\u00eancia .",
+        "head": {
+            "word": "partido_africano_para_a_independ\u00eancia_da_guin\u00e9_e_cabo_verde",
+            "id": 1499,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "paigc",
+            "id": 597,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 3,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 294,
+        "sentence": "desta vez o museu lourinhanense est\u00e1 a usar tomografia_axial_computorizada ( tac ) para descobrir se existem mais ovos com embri\u00f5es , os ossos de os dinossauros antes de habitualmente usado para fins m\u00e9dicos , o equipamento de tac foi disponibilizado por as cl\u00ednicas cedima/irm e montepio de as caldas_da_rainha em colabora\u00e7\u00e3o com os m\u00e9dicos francisco_rita e jos\u00e9 .",
+        "head": {
+            "word": "cedima/irm",
+            "id": 1518,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "caldas_da_rainha",
+            "id": 1520,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "montepio de"
+    },
+    {
+        "sentence_id": 294,
+        "sentence": "desta vez o museu lourinhanense est\u00e1 a usar tomografia_axial_computorizada ( tac ) para descobrir se existem mais ovos com embri\u00f5es , os ossos de os dinossauros antes de habitualmente usado para fins m\u00e9dicos , o equipamento de tac foi disponibilizado por as cl\u00ednicas cedima/irm e montepio de as caldas_da_rainha em colabora\u00e7\u00e3o com os m\u00e9dicos francisco_rita e jos\u00e9 .",
+        "head": {
+            "word": "montepio",
+            "id": 1519,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "caldas_da_rainha",
+            "id": 1520,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 295,
+        "sentence": "o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socr\u00e1tico , t\u00eam criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas cr\u00edticas de circunst\u00e2ncia que ningu\u00e9m ouve , ou , em muitos casos , concordando com o governo e o ps .",
+        "head": {
+            "word": "pp",
+            "id": 1523,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "governo",
+            "id": 425,
+            "category": "ORG"
+        },
+        "relation": "criticado",
+        "relation_id": 1,
+        "predicted_relation": "com ."
+    },
+    {
+        "sentence_id": 295,
+        "sentence": "o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socr\u00e1tico , t\u00eam criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas cr\u00edticas de circunst\u00e2ncia que ningu\u00e9m ouve , ou , em muitos casos , concordando com o governo e o ps .",
+        "head": {
+            "word": "pcp",
+            "id": 1116,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "governo",
+            "id": 425,
+            "category": "ORG"
+        },
+        "relation": "criticado",
+        "relation_id": 2,
+        "predicted_relation": "com ."
+    },
+    {
+        "sentence_id": 295,
+        "sentence": "o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socr\u00e1tico , t\u00eam criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas cr\u00edticas de circunst\u00e2ncia que ningu\u00e9m ouve , ou , em muitos casos , concordando com o governo e o ps .",
+        "head": {
+            "word": "be",
+            "id": 1189,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "governo",
+            "id": 425,
+            "category": "ORG"
+        },
+        "relation": "criticado",
+        "relation_id": 3,
+        "predicted_relation": "com ."
+    },
+    {
+        "sentence_id": 295,
+        "sentence": "o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socr\u00e1tico , t\u00eam criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas cr\u00edticas de circunst\u00e2ncia que ningu\u00e9m ouve , ou , em muitos casos , concordando com o governo e o ps .",
+        "head": {
+            "word": "psd",
+            "id": 628,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "governo",
+            "id": 425,
+            "category": "ORG"
+        },
+        "relation": "concordando com",
+        "relation_id": 4,
+        "predicted_relation": "com ."
+    },
+    {
+        "sentence_id": 295,
+        "sentence": "o pp , o pcp e o be , em alguns casos mesmo alguns raros dissidentes de o ps socr\u00e1tico , t\u00eam criticado o governo , enquanto o psd passa entre as sombras , ou ficando pura e simplesmente silencioso , ou murmurando umas cr\u00edticas de circunst\u00e2ncia que ningu\u00e9m ouve , ou , em muitos casos , concordando com o governo e o ps .",
+        "head": {
+            "word": "psd",
+            "id": 628,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "ps",
+            "id": 631,
+            "category": "ORG"
+        },
+        "relation": "concordando com",
+        "relation_id": 5,
+        "predicted_relation": "socr\u00e1tico ps ."
+    },
+    {
+        "sentence_id": 296,
+        "sentence": "mas , quando vier a pergunta , ser\u00e1 mais para a coreografia do que para a subst\u00e2ncia , porque esta est\u00e1 h\u00e1 muito respondida : de h\u00e1 uns tempos a esta parte , o psd est\u00e1 onde est\u00e1 o ps .",
+        "head": {
+            "word": "psd",
+            "id": 628,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "ps",
+            "id": 631,
+            "category": "ORG"
+        },
+        "relation": "est\u00e1 onde est\u00e1",
+        "relation_id": 1,
+        "predicted_relation": "onde ps ."
+    },
+    {
+        "sentence_id": 304,
+        "sentence": "situada , desde 1891 , em a pra\u00e7a_do_imp\u00e9rio , em a imediata proximidade de o mosteiro_dos_jer\u00f3nimos , a biblioteca_central_da_marinha ( bcm ) \u00e9 sucessora de a antiga biblioteca_da_real_academia_dos_guardas-marinhas , que seguiu com a c\u00f4rte para o brasil e foi transferida para o rio_de_janeiro aquando_de a 1\u00aa invas\u00e3o francesa , tendo ficado em grande parte em aquele pa\u00eds .",
+        "head": {
+            "word": "biblioteca_central_da_marinha",
+            "id": 1550,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "biblioteca_da_real_academia_dos_guardas-marinhas",
+            "id": 1554,
+            "category": "ORG"
+        },
+        "relation": "sucessora de",
+        "relation_id": 1,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 304,
+        "sentence": "situada , desde 1891 , em a pra\u00e7a_do_imp\u00e9rio , em a imediata proximidade de o mosteiro_dos_jer\u00f3nimos , a biblioteca_central_da_marinha ( bcm ) \u00e9 sucessora de a antiga biblioteca_da_real_academia_dos_guardas-marinhas , que seguiu com a c\u00f4rte para o brasil e foi transferida para o rio_de_janeiro aquando de a 1\u00aa invas\u00e3o francesa , tendo ficado em grande parte em aquele pa\u00eds .",
+        "head": {
+            "word": "biblioteca_central_da_marinha",
+            "id": 1550,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "bcm",
+            "id": 1551,
+            "category": "ORG"
+        },
+        "relation": "(",
+        "relation_id": 2,
+        "predicted_relation": "("
+    },
+    {
+        "sentence_id": 306,
+        "sentence": "m\u00e9xico prende assessor de deputado de o pri ; de as ag\u00eancias_internacionais ; a pol\u00edcia mexicana prendeu ontem um funcion\u00e1rio de a c\u00e2mara por suspeita de envolvimento em o assassinato de o secret\u00e1rio-geral de o partido_revolucion\u00e1rio_institucional ( pri , governista ) , jos\u00e9_francisco_ruiz_massieu , 48 , ocorrido quarta-feira em a cidade_do_m\u00e9xico .",
+        "head": {
+            "word": "m\u00e9xico",
+            "id": 1564,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "pri",
+            "id": 1568,
+            "category": "ORG"
+        },
+        "relation": "prende assessor de deputado de",
+        "relation_id": 1,
+        "predicted_relation": "assessor de deputado de"
+    },
+    {
+        "sentence_id": 308,
+        "sentence": "a cimeira uni\u00e3o_europeia_\u00e1frica , prevista para 8 e 9 de dezembro em lisboa , n\u00e3o deve ser uma cimeira sobre o presidente_do_zimbabwe , robert_mugabe , defendeu hoje jos\u00e9_s\u00f3crates , primeiro-ministro portugu\u00eas e presidente em exerc\u00edcio de a uni\u00e3o_europeia ( ue ) .",
+        "head": {
+            "word": "jos\u00e9_s\u00f3crates",
+            "id": 764,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "uni\u00e3o_europeia",
+            "id": 1597,
+            "category": "ORG"
+        },
+        "relation": "primeiro-ministro e presidente de",
+        "relation_id": 1,
+        "predicted_relation": "primeiro-ministro em exerc\u00edcio de"
+    },
+    {
+        "sentence_id": 314,
+        "sentence": "a lusa tentou contactar o porta-voz de a asae para obter esclarecimentos adicionais mas tal foi imposs\u00edvel at\u00e9 a o momento .",
+        "head": {
+            "word": "lusa",
+            "id": 649,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "asae",
+            "id": 653,
+            "category": "ORG"
+        },
+        "relation": "contactar o porta-voz de",
+        "relation_id": 1,
+        "predicted_relation": "contactar o porta-voz de"
+    },
+    {
+        "sentence_id": 329,
+        "sentence": "organizada por o n\u00facleo_interactivo_de_astronomia ( nuclio ) em o centro_de_interpreta\u00e7\u00e3o_ambiental_da_ponta_do_sal , em s\u00e3o_pedro de o estoril , a quarta edi\u00e7\u00e3o de a iniciativa inclui sess\u00f5es de observa\u00e7\u00e3o de o sol e de o c\u00e9u nocturno , oficinas de astronomia , lan\u00e7amentos de foguet\u00f5es de \u00e1gua , palestras e uma procura de aster\u00f3ides , actividade que a institui\u00e7\u00e3o promove regularmente em as escolas de o concelho .",
+        "head": {
+            "word": "n\u00facleo_interactivo_de_astronomia",
+            "id": 1598,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "centro_de_interpreta\u00e7\u00e3o_ambiental_da_ponta_do_sal",
+            "id": 1600,
+            "category": "PLC"
+        },
+        "relation": "em",
+        "relation_id": 1,
+        "predicted_relation": "( em"
+    },
+    {
+        "sentence_id": 332,
+        "sentence": "realizada em o teatro_do_sesi , local ao lado de o espa\u00e7o de o fisl , a noite come\u00e7ou com os ga\u00fachos de a batacl\u00e3 fc , que entraram em o palco com uniformes de o dmlu , o departamento_municipal_de_limpeza_urbana de porto_alegre e abriram o show com o cl\u00e1ssico amigo_punk .",
+        "head": {
+            "word": "departamento_municipal_de_limpeza_urbana",
+            "id": 1628,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "porto_alegre",
+            "id": 463,
+            "category": "PLC"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 332,
+        "sentence": "realizada em o teatro_do_sesi , local ao_lado de o espa\u00e7o de o fisl , a noite come\u00e7ou com os ga\u00fachos de a batacl\u00e3 fc , que entraram em o palco com uniformes de o dmlu , o departamento_municipal_de_limpeza_urbana de porto_alegre e abriram o show com o cl\u00e1ssico amigo_punk .",
+        "head": {
+            "word": "dmlu",
+            "id": 1627,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "departamento_municipal_de_limpeza_urbana",
+            "id": 1628,
+            "category": "ORG"
+        },
+        "relation": "o",
+        "relation_id": 2,
+        "predicted_relation": ","
+    },
+    {
+        "sentence_id": 342,
+        "sentence": "fernando_rodr\u00edguez_gonz\u00e1lez , assessor de o deputado manuel_muoz_rocha , de o pri , teria hospedado o assassino em a capital enquanto o crime era preparado .",
+        "head": {
+            "word": "fernando_rodr\u00edguez_gonz\u00e1lez",
+            "id": 1634,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "pri",
+            "id": 1568,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de assassino em"
+    },
+    {
+        "sentence_id": 342,
+        "sentence": "fernando_rodr\u00edguez_gonz\u00e1lez , assessor de o deputado manuel_muoz_rocha , de o pri , teria hospedado o assassino em a capital enquanto o crime era preparado .",
+        "head": {
+            "word": "manuel_muoz_rocha",
+            "id": 1635,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "pri",
+            "id": 1568,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 2,
+        "predicted_relation": "de assassino em"
+    },
+    {
+        "sentence_id": 347,
+        "sentence": "a desforra de granada ; granada n\u00e3o enfrentou os reis_cat\u00f3licos por raz\u00f5es de f\u00e9 ou de religi\u00e3o .",
+        "head": {
+            "word": "granada",
+            "id": 1642,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "reis_cat\u00f3licos",
+            "id": 1644,
+            "category": "PER"
+        },
+        "relation": "n\u00e3o enfrentou",
+        "relation_id": 1,
+        "predicted_relation": "por raz\u00f5es de"
+    },
+    {
+        "sentence_id": 359,
+        "sentence": "em este arco temporal de 15 anos , o ccb apresentou a o p\u00fablico de lisboa artistas t\u00e3o diversos como sviatoslav_richter e cecilia_bartoli , pina_bausch_et_pippo_delbono , peter_brook e jordi_savall , philip_glass_et_keith_jarrett , a royal_shakespeare_company e o piccolo_teatro_di_milano , robert_lepage e a companhia cheek by jowl , a companhia de \u00f3pera de o teatro_mariinski_de_s._petersburgo e the_wooster_group .",
+        "head": {
+            "word": "ccb",
+            "id": 1649,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "lisboa",
+            "id": 1590,
+            "category": "PLC"
+        },
+        "relation": "apresentou a o p\u00fablico de",
+        "relation_id": 1,
+        "predicted_relation": "apresentou p\u00fablico de"
+    },
+    {
+        "sentence_id": 363,
+        "sentence": "israel , sabendo que n\u00e3o pode devolver a cisjord\u00e2nia , desmantelar os colonatos , prescindir de a ocupa\u00e7\u00e3o sem comprometer a sua seguran\u00e7a , dividir jerusal\u00e9m ou ceder a pretens\u00f5es sobre o regresso des de refugiados ( que nunca poder\u00e3o regressar ) , est\u00e1 interessado em manter as fic\u00e7\u00f5es americanas e europeias e administrar a ocupa\u00e7\u00e3o e a rela\u00e7\u00e3o de for\u00e7as , como a sua supremacia militar assegura .",
+        "head": {
+            "word": "israel",
+            "id": 1216,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "cisjord\u00e2nia",
+            "id": 306,
+            "category": "PLC"
+        },
+        "relation": "n\u00e3o pode devolver",
+        "relation_id": 1,
+        "predicted_relation": "devolver"
+    },
+    {
+        "sentence_id": 364,
+        "sentence": "em dublin , a maior \u00e9 a eason_and_son , que tem uma variedade enorme de a literatura irlandesa .",
+        "head": {
+            "word": "dublin",
+            "id": 689,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "eason_and_son",
+            "id": 690,
+            "category": "ORG"
+        },
+        "relation": "a maior \u00e9",
+        "relation_id": 1,
+        "predicted_relation": "a maior \u00e9"
+    },
+    {
+        "sentence_id": 365,
+        "sentence": "em waterford , visite a f\u00e1brica de cristais waterford ( waterford_crystal_factory ) , que foi fundada em 1783 e fica a 2,5 km a o sul de o centro de a cidade .",
+        "head": {
+            "word": "waterford",
+            "id": 695,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "waterford",
+            "id": 695,
+            "category": "ORG"
+        },
+        "relation": "visite",
+        "relation_id": 1,
+        "predicted_relation": "visite"
+    },
+    {
+        "sentence_id": 375,
+        "sentence": "ant\u00f3nio_nunes , presidente de a autoridade_de_seguran\u00e7a_alimentar_e_econ\u00f3mica ( asae ) , uma de as entidades que ir\u00e1 fiscalizar a aplica\u00e7\u00e3o de a lei que proibe o fumo em espa\u00e7os fechados de utiliza\u00e7\u00e3o p\u00fablica , foi fotografado por o di\u00e1rio_de_not\u00edcias ( dn ) a fumar uma cigarrilha em o casino de o estoril a as 02.30 de a manh\u00e3 de o dia 01 de janeiro .",
+        "head": {
+            "word": "ant\u00f3nio_nunes",
+            "id": 1691,
+            "category": "PER"
+        },
+        "tail": {
+            "word": "autoridade_de_seguran\u00e7a_alimentar_e_econ\u00f3mica",
+            "id": 1692,
+            "category": "ORG"
+        },
+        "relation": "presidente de",
+        "relation_id": 2,
+        "predicted_relation": "presidente de"
+    },
+    {
+        "sentence_id": 390,
+        "sentence": "de acordo com a cbkc ( confedera\u00e7\u00e3o_brasileira_de_cinofilia ) , \u00f3rg\u00e3o filiado a o fci ( f\u00e9d\u00e9ration_cynologique_internationale ) , existem onze grupos de ra\u00e7as em o brasil .",
+        "head": {
+            "word": "cbkc",
+            "id": 1714,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "fci",
+            "id": 1717,
+            "category": "ORG"
+        },
+        "relation": "\u00f3rg\u00e3o filiado a",
+        "relation_id": 2,
+        "predicted_relation": "\u00f3rg\u00e3o filiado a"
+    },
+    {
+        "sentence_id": 401,
+        "sentence": "em o norte , uma for\u00e7a de o cica_1 liderada por o tenente-coronel carlos_azeredo toma o quartel_general_da_regi\u00e3o_militar_do_porto .",
+        "head": {
+            "word": "cica_1",
+            "id": 744,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "quartel_general_da_regi\u00e3o_militar_do_porto",
+            "id": 749,
+            "category": "PLC"
+        },
+        "relation": "toma",
+        "relation_id": 1,
+        "predicted_relation": "toma"
+    },
+    {
+        "sentence_id": 401,
+        "sentence": "em o norte , uma for\u00e7a de o cica_1 liderada por o tenente-coronel carlos_azeredo toma o quartel_general_da_regi\u00e3o_militar_do_porto .",
+        "head": {
+            "word": "norte",
+            "id": 742,
+            "category": "PLC"
+        },
+        "tail": {
+            "word": "cica_1",
+            "id": 744,
+            "category": "ORG"
+        },
+        "relation": "uma for\u00e7a de",
+        "relation_id": 2,
+        "predicted_relation": "uma for\u00e7a de"
+    },
+    {
+        "sentence_id": 408,
+        "sentence": "a abra\u00e7o \u00e9 uma institui\u00e7\u00e3o_particular_de_solidariedade_social .",
+        "head": {
+            "word": "abra\u00e7o",
+            "id": 759,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "institui\u00e7\u00e3o_particular_de_solidariedade_social",
+            "id": 760,
+            "category": "ORG"
+        },
+        "relation": "\u00e9",
+        "relation_id": 1,
+        "predicted_relation": "\u00e9"
+    },
+    {
+        "sentence_id": 411,
+        "sentence": "de o grupo alde , graham watson lan\u00e7ou uma peti\u00e7\u00e3o para que a presid\u00eancia de o pe use os poderes que lhe confere o regimento para mandar embora um deputado que se comporte de maneira indigna : uma atitude como esta n\u00e3o se pode tolerar e traz-nos o pior de um est\u00e1dio de futebol , afirmou .",
+        "head": {
+            "word": "presid\u00eancia",
+            "id": 1272,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "pe",
+            "id": 1287,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "presid\u00eancia de"
+    },
+    {
+        "sentence_id": 413,
+        "sentence": "a o recuperar a independ\u00eancia , portugal encontrou-se em posi\u00e7\u00e3o extremamente d\u00e9bil , pois a amea\u00e7a de a espanha - que por mais de um quarto de s\u00e9culo n\u00e3o reconheceu essa independ\u00eancia - pesava permanentemente sobre o territ\u00f3rio metropolitano .",
+        "head": {
+            "word": "portugal",
+            "id": 566,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "espanha",
+            "id": 568,
+            "category": "ORG"
+        },
+        "relation": "amea\u00e7a de",
+        "relation_id": 1,
+        "predicted_relation": "amea\u00e7a de"
+    },
+    {
+        "sentence_id": 419,
+        "sentence": "o departamento_de_cultura_cient\u00edfica_do_centro_acad\u00eamico_pereira_barretto ( dcc/capb ) , \u00f3rg\u00e3o respons\u00e1vel por a representa\u00e7\u00e3o e encaminhamento cient\u00edfico de os alunos de a unifesp/epm , fundado em 1937 , atua junto a os alunos promovendo v\u00e1rios cursos extracurriculares , palestras , confer\u00eancias e discuss\u00f5es de interesse a a \u00e1rea m\u00e9dica .",
+        "head": {
+            "word": "departamento_de_cultura_cient\u00edfica_do_centro_acad\u00eamico_pereira_barretto",
+            "id": 1752,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "unifesp/epm",
+            "id": 1756,
+            "category": "ORG"
+        },
+        "relation": "\u00f3rg\u00e3o respons\u00e1vel por a representa\u00e7\u00e3o e encaminhamento cient\u00edfico de os alunos de",
+        "relation_id": 1,
+        "predicted_relation": ""
+    },
+    {
+        "sentence_id": 422,
+        "sentence": "a forma\u00e7\u00e3o e o treino de as falintil - forcas_de_defesa_de_timor-leste , de a pol\u00edcia_nacional_de_timor-leste e de os guardas prisionais s\u00e3o orientados por os princ\u00edpios de os direitos humanos .",
+        "head": {
+            "word": "falintil",
+            "id": 1769,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "pol\u00edcia_nacional_de_timor-leste",
+            "id": 1771,
+            "category": "ORG"
+        },
+        "relation": "de",
+        "relation_id": 1,
+        "predicted_relation": "de"
+    },
+    {
+        "sentence_id": 425,
+        "sentence": "escutismo distingue c\u00e2mara_de_santo_tirso ; o corpo_nacional_de_escutas ( cne ) atribuiu ontem a a c\u00e2mara_de_santo_tirso o diploma de m\u00e9rito_nacional , a sua mais alta distin\u00e7\u00e3o , por o apoio incondicional de a autarquia a o escutismo em o concelho .",
+        "head": {
+            "word": "corpo_nacional_de_escutas",
+            "id": 1779,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "c\u00e2mara_de_santo_tirso",
+            "id": 1778,
+            "category": "ORG"
+        },
+        "relation": "atribuiu",
+        "relation_id": 1,
+        "predicted_relation": "diploma de"
+    },
+    {
+        "sentence_id": 441,
+        "sentence": "com um total de 161 militares , o contingente portugu\u00eas integrado em a for\u00e7a_internacional_de_assist\u00eancia_e_seguran\u00e7a ( isaf ) constitui a for\u00e7a_de_reac\u00e7\u00e3o_r\u00e1pida_do_comandante de a for\u00e7a de a nato em o afeganist\u00e3o .",
+        "head": {
+            "word": "for\u00e7a_internacional_de_assist\u00eancia_e_seguran\u00e7a",
+            "id": 1792,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "for\u00e7a_de_reac\u00e7\u00e3o_r\u00e1pida_do_comandante",
+            "id": 1795,
+            "category": "ORG"
+        },
+        "relation": "constitui",
+        "relation_id": 1,
+        "predicted_relation": "de de"
+    },
+    {
+        "sentence_id": 441,
+        "sentence": "com um total de 161 militares , o contingente portugu\u00eas integrado em a for\u00e7a_internacional_de_assist\u00eancia_e_seguran\u00e7a ( isaf ) constitui a for\u00e7a_de_reac\u00e7\u00e3o_r\u00e1pida_do_comandante de a for\u00e7a de a nato em o afeganist\u00e3o .",
+        "head": {
+            "word": "isaf",
+            "id": 1793,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "for\u00e7a_de_reac\u00e7\u00e3o_r\u00e1pida_do_comandante",
+            "id": 1795,
+            "category": "ORG"
+        },
+        "relation": "constitui",
+        "relation_id": 2,
+        "predicted_relation": ""
+    },
+    {
+        "sentence_id": 457,
+        "sentence": "\u00e9 urgente que aquela comiss\u00e3o averig\u00fae por que raz\u00e3o os estados_membros est\u00e3o a ignorar as leis de a ue em mat\u00e9ria de seguran\u00e7a mar\u00edtima e n\u00e3o se trata apenas de a gr\u00e9cia .",
+        "head": {
+            "word": "estados_membros",
+            "id": 802,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "ue",
+            "id": 763,
+            "category": "ORG"
+        },
+        "relation": "ignorar as leis de",
+        "relation_id": 1,
+        "predicted_relation": "ignorar as leis de"
+    },
+    {
+        "sentence_id": 457,
+        "sentence": "\u00e9 urgente que aquela comiss\u00e3o averig\u00fae por que raz\u00e3o os estados_membros est\u00e3o a ignorar as leis de a ue em mat\u00e9ria de seguran\u00e7a mar\u00edtima e n\u00e3o se trata apenas de a gr\u00e9cia .",
+        "head": {
+            "word": "estados_membros",
+            "id": 802,
+            "category": "ORG"
+        },
+        "tail": {
+            "word": "gr\u00e9cia",
+            "id": 810,
+            "category": "ORG"
+        },
+        "relation": "ignorar as leis de",
+        "relation_id": 2,
+        "predicted_relation": "ignorar as leis de"
+    }
+]

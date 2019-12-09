@@ -1,0 +1,77 @@
+{
+    "parse" : {
+            "parse" : false
+    },
+
+    "dataset" : {
+        "path"       : "data/dataset/",
+        "train_tsv"  : "train.tsv",
+        "test_tsv"   : "test_1.tsv",
+        "train_json" : "train.json",
+        "test_json"  : "test.json",
+        "train_entities_number" : "train_entities_number.txt",
+        "test_entities_number" : "test_entities_number.txt",
+        "train_entities_relation" : "train_entities_relation.txt",
+        "test_entities_relation" : "test_entities_relation.txt",
+        "train_full_relation" : "train_full_relation.txt",
+        "test_full_relation" : "test_full_relation.txt",
+        "train_words_in_relation" : "train_words_in_relation.txt",
+        "test_words_in_relation" : "test_words_in_relation.txt"
+    },
+
+    "word_embeddings" : {
+        "real"                        : false,
+        "path"                        : "data/word_embeddings/",
+        "example_src"                 : "example/word_embeddings.txt",
+        "real_src"                    : "real/word_embeddings.txt",
+        "word_embeddings_json"        : "word_embeddings.json",
+        "dimensions"                  : 0,
+        "vocab_size"                  : 0
+    },
+
+    "relation" : {
+        "path"      : "data/relation/",
+        "file_name" : "relation_to_id.json"
+    },
+
+    "entities" : {
+        "path" : "data/entities/",
+        "entities_to_id" : "entities_to_id.json",
+        "reverse_entities_to_id" : "reverse_entities_to_id.json"
+    },
+
+    "word_to_id" : {
+        "path"         : "data/word_to_id/",
+        "dict"         : "word_to_id.json",
+        "reverse_dict" : "reverse_dict.json"
+    },
+
+    "input" : {
+        "path"                             : "data/input/",
+        "train_sentence_input"             : "train_sentence_input.json",
+        "train_entity_input"               : "train_entity_input.json",
+        "train_pos_tagged_input"           : "train_pos_tagged_input.json",
+        "test_sentence_input"              : "test_sentence_input.json",
+        "test_entity_input"                : "test_entity_input.json",
+        "test_pos_tagged_input"            : "test_pos_tagged_input.json",
+        "word_embeddings_weight"           : "word_embeddings_weight.json"
+    },
+
+    "output" : {
+        "path"                  : "data/output/",
+        "train_sentence_output" : "train_sentence_output.json",
+        "test_sentence_output"  : "test_sentence_output.json"
+    },
+
+    "part_of_speech" : {
+        "path" : "data/part_of_speech/",
+        "pos_tag_dict" : "pos_tag_dict.json"
+    },
+
+    "output_files" : {
+        "path" : "data/output_files/",
+        "debugging" : "debugging.txt",
+        "iberlef" : "iberlef.tsv",
+        "predicted_output_json" : "predicted_output.json"
+    }
+}
