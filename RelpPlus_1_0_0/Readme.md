@@ -1,4 +1,8 @@
 # Relp++
+##Versão 1.0.0
+##Modelo CRF
+##Versão desenvolvida e publicada no Propor 2020
+
 
 
 # Pré-requisitos
