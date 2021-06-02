@@ -43,7 +43,7 @@ termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019080601
 thinc==7.1.1
 tqdm==4.36.1
-urllib3==1.25.6
+urllib3==1.26.5
 wasabi==0.2.2
 Werkzeug==0.15.6
 wrapt==1.11.2
